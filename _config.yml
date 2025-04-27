@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : Junjie Liu # "Your Sidebar Name"
+  name             : Junwei Zhou # "Your Sidebar Name"
   avatar           : "profile.jpg"
-  bio              : PhD student, CSE, HKUST # "Your biography for the left-hand sidebar"
-  location         : "Hong Kong SAR" # "Location"
-  employer         : 
+  bio              : Prof., WHUT # "Your biography for the left-hand sidebar"
+  location         : "Wuhan" # "Location"
+  employer         : "Wuhan University of Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=pSkfLwgAAAAJ"
-  email            : "junjie.liu@connect.ust.hk"
-  researchgate     : "https://www.researchgate.net/profile/Junjie-Liu-5" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=ERgncpoAAAAJ&hl=zh-CN&oi=ao"
+  email            : "junweizhou@msn.com"
+  # researchgate     : "https://www.researchgate.net/profile/Junjie-Liu-5" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chunkitlau" # "academicpages"
+  github           : "junwzhou" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
