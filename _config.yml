@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhou, Junwei(Meinherz, 周俊伟)" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Junwei Zhou (刘俊杰)" # "Your Name"
+name                     : &name "Junwei Zhou (周俊伟)" # "Your Name"
 description              : &description "personal description"
 url                      : "https://junwzhou.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
