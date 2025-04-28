@@ -1,26 +1,26 @@
 ---
 title: "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata"
 collection: publications
-permalink: /publication/2023-04-19-Moving-Target-Tracking-Based-on-Multi-view-Fusion-Using-IR-UWB-Radar
-excerpt: 'In this paper, we propose a moving target tracking method using IR-UWB signals on the basis of understanding the composition of the received signal spectrum in multipath environments.'
-date: 2023-04-19
-venue: 'Journal of Software'
-paperurl: 'http://www.jos.org.cn/jos/article/pdf/6760'
-citation: 'Chen WY, Zhang FS, Liu JJ, Bao P, Zhang DQ. Moving Target Tracking Based on Multi-view Fusion Using IR-UWB
-Radar. Ruan Jian Xue Bao/Journal of Software, 2023, 34(12): 5457–5476 (in Chinese). http://www.jos.org.cn/1000-9825/6760.htm'
+permalink: /publication/2022-08-20-DeepSyslog-Deep-Anomaly-Detection-on-Syslog-Using-Sentence-Embedding-and-Metadata
+excerpt: 'In this paper, we propose DeepSyslog, a deep anomaly detection method for Syslog that integrates unsupervised sentence embedding with event metadata to capture contextual semantics and improve detection accuracy, outperforming existing log-based approaches.'
+date: 2022-08-20
+venue: 'IEEE Transactions on Information Forensics and Security'
+paperurl: 'https://ieeexplore.ieee.org/document/9865986'
+citation: 'J. Zhou, Y. Qian, Q. Zou, P. Liu and J. Xiang, "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata," in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3051-3061, 2022, doi: 10.1109/TIFS.2022.3201379.
+keywords: {Metadata;Anomaly detection;Feature extraction;Semantics;Indexes;History;Event detection;Anomaly detection;sentence embedding;event metadata},'
 ---
 
 ## Abstract
-In recent years, the localization and tracking of moving targets have been widely used in many applications, including indoor navigation, smart home, security monitoring, smart medical services, etc. The Radio-Frequency based contactless localization and tracking have attracted extensive attention from researchers. The IR-UWB based technology can achieve target localization and tracking at low cost and power consumption and has strong development potential. However, most of the existing works have the following problems: 1) Limited tracking scenes. Modeling and processing methods are only for outdoor or relatively empty indoor scenes under ideal conditions. 2) Limited movement state of the target. The target is required to move at a constant speed. 3) Low tracking accuracy caused by fake dynamic targets. In order to solve these problems, in this paper, we propose a moving target tracking method using IR-UWB signals on the basis of understanding the composition of the received signal spectrum in multipath environments. First, it extracts the dynamic components of the originally received signal spectrum. Then, it uses Gaussian blur-based multipath elimination and distance extraction algorithms to eliminate multipath interference and only retains one reflection information directly related to the moving target, thereby accurately obtaining the target’s distance curve. Subsequently, a multi-view joint fusion algorithm is proposed to fuse the distance information of the devices from different views to achieve accurate localization and tracking of a single freely moving target. In addition, we built a real-time moving target tracking system based on IR-UWB. The experimental results in the real indoor home scene show that the error between the center position of the human body estimated by the system and the real motion trajectory is always within 20cm. In the case of changing the experimental environment, experimenter, activity speed, equipment height, and other influencing factors, the system remains robust.
+Anomaly events indicating the unhealthy status of the computer system are recorded in the system log (Syslog). Therefore, Syslog-based anomaly event detection is crucial for diagnosing system issues and problems. However, existing log-based anomaly detection approaches use raw and unstructured log entries independently and incompletely, i.e., without considering the context of each event and event metadata in the logs. They employ incomplete representation of unstructured log data, limiting the deep learning model’s capacity in the early stage, which tends to omit anomaly events and cause false alarms. In this work, we propose DeepSyslog, which represents Syslog with the context of log events and event metadata in the logs. Inspired by the sequence nature of the log stream, we employ unsupervised sentence embedding to extract the semantic and context information hidden in the log stream, rather than word embedding or one-hot embedding, which only capture the similarities between log words. The sentence embedding is further integrated with event metadata to form complete representations of Syslog, which can distinguish the anomaly caused by the correlated log entries and exceptional event metadata in the log. The simulation results on widely used log datasets show that DeepSyslog achieves high performance compared with the existing log-based anomaly event detection approaches.
 
 ## Key words
 
-ubiquitous computing; contactless sensing; IR-UWB; UWB; distance measurement; indoor localization; target tracking
+Metadata;Anomaly detection;Feature extraction;Semantics;Indexes;History;Event detection
 
-[Download paper here](https://www.jos.org.cn/jos/article/pdf/6760)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865986)
 
-Recommended citation: Chen WY, Zhang FS, Liu JJ, Bao P, Zhang DQ. Moving Target Tracking Based on Multi-view Fusion Using IR-UWB
-Radar. Ruan Jian Xue Bao/Journal of Software, 2023, 34(12): 5457–5476 (in Chinese). http://www.jos.org.cn/1000-9825/6760.htm
+Recommended citation: J. Zhou, Y. Qian, Q. Zou, P. Liu and J. Xiang, "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata," in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3051-3061, 2022, doi: 10.1109/TIFS.2022.3201379.
+keywords: {Metadata;Anomaly detection;Feature extraction;Semantics;Indexes;History;Event detection;Anomaly detection;sentence embedding;event metadata},
 
-Recommended citation（in Chinese）: 陈蔚燕, 张扶桑, 刘俊杰, 包鹏, 张大庆. 基于IR-UWB雷达的多视角融合动态目标追踪. 软件学报, 2023, 34(12):
-5457–5476. http://www.jos.org.cn/1000-9825/6760.htm
+<!-- Recommended citation（in Chinese）: 陈蔚燕, 张扶桑, 刘俊杰, 包鹏, 张大庆. 基于IR-UWB雷达的多视角融合动态目标追踪. 软件学报, 2023, 34(12):
+5457–5476. http://www.jos.org.cn/1000-9825/6760.htm -->
