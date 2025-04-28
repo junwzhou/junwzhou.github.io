@@ -19,8 +19,8 @@ Metadata;Anomaly detection;Feature extraction;Semantics;Indexes;History;Event de
 
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9865986)
 
-Recommended citation: J. Zhou, Y. Qian, Q. Zou, P. Liu and J. Xiang, "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata," in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3051-3061, 2022, doi: 10.1109/TIFS.2022.3201379.
-keywords: {Metadata;Anomaly detection;Feature extraction;Semantics;Indexes;History;Event detection;Anomaly detection;sentence embedding;event metadata},
+Recommended citation: J. Zhou, Y. Qian, Q. Zou, P. Liu and J. Xiang, "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata," in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3051-3061, 2022, doi: 10.1109/TIFS.2022.3201379.\
+keywords: {Metadata;Anomaly detection;Feature extraction;Semantics;Indexes;History;Event detection;Anomaly detection;sentence embedding;event metadata}
 
 <!-- Recommended citation（in Chinese）: 陈蔚燕, 张扶桑, 刘俊杰, 包鹏, 张大庆. 基于IR-UWB雷达的多视角融合动态目标追踪. 软件学报, 2023, 34(12):
 5457–5476. http://www.jos.org.cn/1000-9825/6760.htm -->
