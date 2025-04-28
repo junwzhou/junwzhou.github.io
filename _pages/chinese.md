@@ -5,8 +5,6 @@ permalink: /chinese/
 author_profile: true
 ---
 
-# 周俊伟 教授
-
 ## 学术职务
 - 博士生导师，楚天学者特聘教授
 - 武汉理工大学人工智能专业负责人
