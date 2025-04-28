@@ -44,7 +44,7 @@ author_profile: true
 指导学生获省部级以上创新创业大赛奖项5项
 
 ## 联系方式
-- 邮箱：prof.zhou@whut.edu.cn
+- 邮箱：junweizhou@msn.com
 - 地址：武汉理工大学计算机与人工智能学院
 
 
