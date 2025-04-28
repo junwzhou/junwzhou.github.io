@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a Full Professor and Doctoral Supervisor at Wuhan University of Technology (WHUT),  
 where I serve as Director of the Center for Computer and Artificial Intelligence Technologies  
 and lead the Artificial Intelligence undergraduate program.
