@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
-* B.Eng. in Computer Science, Beijing University of Posts and Telecommunications, 2023 (expected)
+* B.Eng. in Computer Science, Beijing University of Posts and Telecommunications, 2023 (expected) -->
 
 <!--
 * B.S. in GitHub, GitHub University, 2012
@@ -39,6 +39,8 @@ Education
 Ph.D. in Electronic Engineering, City University of Hong Kong, 2011–2014 Advisor: Prof. Kwok-Wo Wong
 M.Eng. in Computer Science, Shenzhen University, 2008–2011 Advisor: Prof. Jianyong Chen
 B.Eng. in Software Engineering, Hunan University, 2003–2007 Advisor: Prof. Zheng Qin
+
+
 Professional Experience
 ======
 
@@ -59,6 +61,7 @@ Visiting Scholar, Politecnico di Torino, Italy
 Dec 2013 – Apr 2014
 
 Collaborated with Prof. Enrico Magli on distributed arithmetic coding for multimedia compression.
+
 Research Projects (Selected)
 ======
 
@@ -74,6 +77,7 @@ Industry Collaboration
 Feb 2021 – Present | Principal Investigator
 
 Developed OCR for rare Chinese characters and computer vision simulation platforms.
+
 Honors and Awards
 ======
 
@@ -81,17 +85,21 @@ Chutian Scholar (Young Talent), Hubei Province, 2015
 Huawei Pioneer Teacher, 2020
 Best Paper Award, National Conference on Pervasive Computing (PCC 2020)
 First Prize, National Computer Education Conference, 2021
+
+
 Publications
 ======
 
 Zhou, J., et al. "Distributed Video Coding via Adaptive Interval Overlap Factor." Patent ZL202011318867.3, 2022.
 Zhou, J., et al. "Facial Landmark Localization Method and Device." Patent ZL201810576579.4, 2021.
 Multi-view Fusion Based Moving Target Tracking Using IR-UWB Devices. PCC 2020.
+
 Patents and Software
 ======
 
 Android Attendance System Based on Face Recognition (Soft. Copyright 2016SR351580)
 Custom Formula Editor (Industry-funded, 2022–2024)
+
 Student Supervision
 ======
 
