@@ -9,39 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
-======
-* B.Eng. in Computer Science, Beijing University of Posts and Telecommunications, 2023 (expected) -->
-
-<!--
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
--->
-
-<!--
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
--->
-
 Education
 ======
-
 * **Ph.D. in Electronic Engineering**, City University of Hong Kong, 2011–2014  
   Advisor: Prof. Kwok-Wo Wong  
 * **M.Eng. in Computer Science**, Shenzhen University, 2008–2011  
   Advisor: Prof. Jianyong Chen  
 * **B.Eng. in Software Engineering**, Hunan University, 2003–2007  
-  Advisor: Prof. Zheng Qin  
+  Advisor: Prof. Zheng Qin 
+
 
 Professional Experience
 ======
