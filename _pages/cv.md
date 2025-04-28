@@ -33,46 +33,71 @@ Work experience
   * Supervisor: Professor Hub
 -->
 
-Research Experience
+Education
 ======
-* July, 2022 - October, 2022(expected): Research intern / Visiting student
-  * University of British Columbia
-  * This research is under the Mitacs Globalink Research Internship program, jointly supported by Mitacs(Canada) and China Scholarship Council(China). The research project is in its infancy.
-  * Explored approximation algorithms in dynamic graph processing, for example can we develop a pathing style algorithm similar to SSSP (perhaps approximate) that is functional with deletes?
-  * Explored dynamic-only algorithms in dynamic graph processing instead of converting from static to dynamic, for example can we extend algorithms like pagerank to incorporate more metadata (like timestamps themselves) into one form of weight?
-  * Advisor: [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/)
-* October, 2020 - Present: Research intern
-  * Beijing University of Posts and Telecommunications
-  * Paper(expected): ”Interactive Realistic Real-time Animation on Mobile Platforms”
-  * Explored real-time realistic animation plugins embedded into graphics rendering pipelines that can be plugged into almost any existing rendering pipeline, rather than targeting output inference results (offsets) like existing deep learning frameworks. Through our pipeline, we reduce CPU-GPU transfer and synchronization time, and improve execution efficiency through specialized and fine-grained implementation.
-  * Explored adaptive tetrahedral mesh generation to reduce computation for large 3D characters to ensure responsiveness (frame rate). According to the importance of the character triangle mesh to animation, the tetrahedral mesh is adaptively divided to reduce the amount of calculation, and the neural network method is used to infer the deformation of the tetrahedral mesh, so that even a large 3D model can be obtained within a few milliseconds next frame.
-  * Advisor: [Mengwei Xu](https://xumengwei.github.io/)
-* November, 2019 - September, 2020: Research intern
-  * Peking University
-  * Paper: ”Multi-view fusion based moving target tracking using IR-UWB devices”
-  * Explored high-precision moving target tracking based on multiple IR-UWB devices. Firstly, the dynamic components are extracted by static elimination, then the multi-path interference is eliminated by Gaussian blurring, and finally the multi-view distance information is integrated to achieve high-precision moving target tracking. The error between the estimated center position of the human body and the real trajectory is always within 20cm.
-  * Advisor: [Daqing Zhang](http://www-public.tem-tsp.eu/~zhang_da/DaqingZhang.html)
 
+Ph.D. in Electronic Engineering, City University of Hong Kong, 2011–2014 Advisor: Prof. Kwok-Wo Wong
+M.Eng. in Computer Science, Shenzhen University, 2008–2011 Advisor: Prof. Jianyong Chen
+B.Eng. in Software Engineering, Hunan University, 2003–2007 Advisor: Prof. Zheng Qin
+Professional Experience
+======
+
+Professor, Wuhan University of Technology
+Dec 2023 – Present
+
+Teaching and research in computer science.
+Dean & Professor, Xinjiang Vocational University (Aid-Xinjiang Program)
+Oct 2020 – Jul 2023
+
+Led the School of Mechanical and Electronic Engineering.
+Postdoctoral Researcher, Pennsylvania State University, USA
+Nov 2018 – Feb 2020
+
+Advisor: Prof. Peng Liu
+Research focus: Cybersecurity and network reliability.
+Visiting Scholar, Politecnico di Torino, Italy
+Dec 2013 – Apr 2014
+
+Collaborated with Prof. Enrico Magli on distributed arithmetic coding for multimedia compression.
+Research Projects (Selected)
+======
+
+National Key R&D Program Subproject
+Dec 2022 – Nov 2025 | Principal Investigator
+
+Industrial protocol data extraction and parsing.
+NSFC Youth Fund
+Jan 2017 – Dec 2019 | Principal Investigator
+
+Low-complexity video compression for wireless multimedia sensors.
+Industry Collaboration
+Feb 2021 – Present | Principal Investigator
+
+Developed OCR for rare Chinese characters and computer vision simulation platforms.
 Honors and Awards
 ======
-* China Computer Federation Student Member, August, 2020 - Present
-* Mitacs Globalink Research Internship award, February, 2022
-* First-class Scholarship, Beijing University of Posts and Telecommunications, December, 2021
-* Beijing University of Posts and Telecommunications: Cultural and Sports Activists, December, 2021
-* National Conference on Pervasive Computing (PCC 2020) Best Paper Award, China Computer Federation, October, 2020
-* National Olympiad in Informatics, China(CCF NOI 2018) Bronze medal, China Computer Federation, July, 2018
 
+Chutian Scholar (Young Talent), Hubei Province, 2015
+Huawei Pioneer Teacher, 2020
+Best Paper Award, National Conference on Pervasive Computing (PCC 2020)
+First Prize, National Computer Education Conference, 2021
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Skills
+Zhou, J., et al. "Distributed Video Coding via Adaptive Interval Overlap Factor." Patent ZL202011318867.3, 2022.
+Zhou, J., et al. "Facial Landmark Localization Method and Device." Patent ZL201810576579.4, 2021.
+Multi-view Fusion Based Moving Target Tracking Using IR-UWB Devices. PCC 2020.
+Patents and Software
 ======
-* Language: proficient in C/C++, Python; competent in Java.
-* Knowledge: proficient in data structures and algorithms; competent to software and system development; Understand Linux, Windows
-* Tool: competent in Latex, Git.
+
+Android Attendance System Based on Face Recognition (Soft. Copyright 2016SR351580)
+Custom Formula Editor (Industry-funded, 2022–2024)
+Student Supervision
+======
+
+Awards:
+1st Prize, China Collegiate Computing Competition (Regional, 2016)
+3rd Prize, National Postgraduate Mobile Application Design Contest (2016)
 
 <!--  
 Talks
