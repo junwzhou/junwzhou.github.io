@@ -32,79 +32,72 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 -->
-
 Education
 ======
 
-Ph.D. in Electronic Engineering, City University of Hong Kong, 2011–2014 Advisor: Prof. Kwok-Wo Wong
-M.Eng. in Computer Science, Shenzhen University, 2008–2011 Advisor: Prof. Jianyong Chen
-B.Eng. in Software Engineering, Hunan University, 2003–2007 Advisor: Prof. Zheng Qin
-
+* **Ph.D. in Electronic Engineering**, City University of Hong Kong, 2011–2014  
+  Advisor: Prof. Kwok-Wo Wong  
+* **M.Eng. in Computer Science**, Shenzhen University, 2008–2011  
+  Advisor: Prof. Jianyong Chen  
+* **B.Eng. in Software Engineering**, Hunan University, 2003–2007  
+  Advisor: Prof. Zheng Qin  
 
 Professional Experience
 ======
 
-Professor, Wuhan University of Technology
-Dec 2023 – Present
+* **Professor**, Wuhan University of Technology  
+  *Dec 2023 – Present*  
+  - Teaching and research in computer science.  
 
-Teaching and research in computer science.
-Dean & Professor, Xinjiang Vocational University (Aid-Xinjiang Program)
-Oct 2020 – Jul 2023
+* **Dean & Professor**, Xinjiang Vocational University (Aid-Xinjiang Program)  
+  *Oct 2020 – Jul 2023*  
+  - Led the School of Mechanical and Electronic Engineering.  
 
-Led the School of Mechanical and Electronic Engineering.
-Postdoctoral Researcher, Pennsylvania State University, USA
-Nov 2018 – Feb 2020
+* **Postdoctoral Researcher**, Pennsylvania State University, USA  
+  *Nov 2018 – Feb 2020*  
+  - Advisor: Prof. Peng Liu  
+  - Research focus: Cybersecurity and network reliability.  
 
-Advisor: Prof. Peng Liu
-Research focus: Cybersecurity and network reliability.
-Visiting Scholar, Politecnico di Torino, Italy
-Dec 2013 – Apr 2014
-
-Collaborated with Prof. Enrico Magli on distributed arithmetic coding for multimedia compression.
+* **Visiting Scholar**, Politecnico di Torino, Italy  
+  *Dec 2013 – Apr 2014*  
+  - Collaborated with Prof. Enrico Magli on distributed arithmetic coding for multimedia compression.  
 
 Research Projects (Selected)
 ======
 
-National Key R&D Program Subproject
-Dec 2022 – Nov 2025 | Principal Investigator
+* **National Key R&D Program Subproject**  
+  *Dec 2022 – Nov 2025* | Principal Investigator  
+  - Industrial protocol data extraction and parsing.  
 
-Industrial protocol data extraction and parsing.
-NSFC Youth Fund
-Jan 2017 – Dec 2019 | Principal Investigator
+* **NSFC Youth Fund**  
+  *Jan 2017 – Dec 2019* | Principal Investigator  
+  - Low-complexity video compression for wireless multimedia sensors.  
 
-Low-complexity video compression for wireless multimedia sensors.
-Industry Collaboration
-Feb 2021 – Present | Principal Investigator
-
-Developed OCR for rare Chinese characters and computer vision simulation platforms.
+* **Industry Collaboration**  
+  *Feb 2021 – Present* | Principal Investigator  
+  - Developed OCR for rare Chinese characters and computer vision simulation platforms.  
 
 Honors and Awards
 ======
 
-Chutian Scholar (Young Talent), Hubei Province, 2015
-Huawei Pioneer Teacher, 2020
-Best Paper Award, National Conference on Pervasive Computing (PCC 2020)
+Chutian Scholar (Young Talent), Hubei Province, 2015\
+Huawei Pioneer Teacher, 2020\
+Best Paper Award, National Conference on Pervasive Computing (PCC 2020)\
 First Prize, National Computer Education Conference, 2021
 
 
-Publications
-======
-
-Zhou, J., et al. "Distributed Video Coding via Adaptive Interval Overlap Factor." Patent ZL202011318867.3, 2022.
-Zhou, J., et al. "Facial Landmark Localization Method and Device." Patent ZL201810576579.4, 2021.
-Multi-view Fusion Based Moving Target Tracking Using IR-UWB Devices. PCC 2020.
 
 Patents and Software
 ======
-
-Android Attendance System Based on Face Recognition (Soft. Copyright 2016SR351580)
-Custom Formula Editor (Industry-funded, 2022–2024)
+Zhou, J., et al. "Distributed Video Coding via Adaptive Interval Overlap Factor." Patent ZL202011318867.3, 2022.\
+Zhou, J., et al. "Facial Landmark Localization Method and Device." Patent ZL201810576579.4, 2021.\
+Zhou, J., et al. "Android Attendance System Based on Face Recognition." Patent 2016SR351580, 2016.
 
 Student Supervision
 ======
 
 Awards:
-1st Prize, China Collegiate Computing Competition (Regional, 2016)
+1st Prize, China Collegiate Computing Competition (Regional, 2016)\
 3rd Prize, National Postgraduate Mobile Application Design Contest (2016)
 
 <!--  
