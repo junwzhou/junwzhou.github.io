@@ -18,8 +18,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "团队"
+  - title: "Team"
     url: /team/
+
+  - title: "News"
+    url: /news/
     
   - title: "中文"
     url: /chinese/
