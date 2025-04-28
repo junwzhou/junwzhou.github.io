@@ -17,9 +17,14 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "团队"
+    url: /team/
     
   - title: "中文"
     url: /chinese/
+
+  
     
   #- title: "Guide"
   #  url: /markdown/
