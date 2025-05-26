@@ -10,8 +10,12 @@ author_profile: true
 ## 🌟 活动简介
 欢迎新同学加入实验室大家庭！通过轻松愉快的聚餐交流，帮助新生快速融入团队。
 
+<div style="text-align: center; margin-top: -20px; margin-bottom: 20px">
+
 ![温馨聚餐](../images/迎新聚餐.jpg){: style="width: 65%"}
-*新生与师兄师姐围坐交流，共享美食*
+
+#### *新生与师兄师姐围坐交流，共享美食*
+</div>
 
 
 # 🍖 实验室东湖烧烤野餐活动
