@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
 <!-- 顶部导航卡片 -->
 <div style="display: flex; gap: 20px; margin-bottom: 30px; justify-content: center;">
   <a href="#welcome" style="flex: 1; max-width: 200px; text-decoration: none;">
@@ -25,6 +26,14 @@ author_profile: true
     </div>
   </a>
 </div>
+
+<!-- 添加平滑滚动效果 -->
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
 # 🎉 实验室迎新活动：携手新程 {#welcome}
 
 ## 🌟 活动简介
@@ -35,9 +44,8 @@ author_profile: true
 &nbsp;  
 #### *新生与师兄师姐围坐交流，共享美食*
 
-
-
 # 🍖 实验室东湖烧烤野餐活动 {#bbq}
+
 ## 📅 活动简介
 实验室每年会在举行春游和秋游团建活动，在东湖举行烧烤野餐活动。
 
@@ -58,14 +66,12 @@ author_profile: true
 
 ![烧烤现场](../images/烧烤.jpg){:style="width:65%"}
 
-
 ## 🌟 活动亮点
 - 湖边烧烤，享受美食
 - 团队游戏，增进感情
 - 东湖散步，欣赏美景
 
 活动在欢声笑语中圆满结束，大家期待下次再聚！
-
 
 # 🚀 研三求职经验分享会：师兄师姐助力秋招冲刺 {#jobfair}
 
@@ -80,6 +86,5 @@ author_profile: true
     <p style="text-align: center;"></p>
   </div>
 </div>
-
 
 为帮助研三同学把握秋招黄金期，特邀已经毕业入职小米,中建三局等公司校友（覆盖互联网/国企/通信等行业）开展深度分享，助力师弟师妹拿到offer。
