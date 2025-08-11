@@ -4,7 +4,27 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+<!-- 顶部导航卡片 -->
+<div style="display: flex; gap: 20px; margin-bottom: 30px; justify-content: center;">
+  <a href="#welcome" style="flex: 1; max-width: 200px; text-decoration: none;">
+    <div style="background: #fff; border: 1px solid #eee; border-radius: 8px; overflow: hidden; text-align: center; transition: transform 0.2s;">
+      <img src="../images/迎新聚餐.jpg" alt="迎新活动" style="width: 100%; height: 120px; object-fit: cover;">
+      <h4 style="margin: 10px 0;">迎新活动</h4>
+    </div>
+  </a>
+  <a href="#bbq" style="flex: 1; max-width: 200px; text-decoration: none;">
+    <div style="background: #fff; border: 1px solid #eee; border-radius: 8px; overflow: hidden; text-align: center; transition: transform 0.2s;">
+      <img src="../images/烧烤.jpg" alt="东湖烧烤" style="width: 100%; height: 120px; object-fit: cover;">
+      <h4 style="margin: 10px 0;">东湖烧烤</h4>
+    </div>
+  </a>
+  <a href="#jobfair" style="flex: 1; max-width: 200px; text-decoration: none;">
+    <div style="background: #fff; border: 1px solid #eee; border-radius: 8px; overflow: hidden; text-align: center; transition: transform 0.2s;">
+      <img src="../images/themeeting.jpg" alt="求职分享会" style="width: 100%; height: 120px; object-fit: cover;">
+      <h4 style="margin: 10px 0;">求职分享会</h4>
+    </div>
+  </a>
+</div>
 # 🎉 实验室迎新活动：携手新程
 
 ## 🌟 活动简介
