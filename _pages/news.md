@@ -5,8 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
-<!-- 顶部导航卡片 -->
-<div style="display: flex; gap: 30px; margin-bottom: 40px; justify-content: center;">
+<!-- 顶部导航卡片，靠左对齐 -->
+<div style="display: flex; gap: 30px; margin-bottom: 40px; justify-content: flex-start; align-items: center;">
   <a href="#welcome" style="flex: 1; max-width: 250px; text-decoration: none;">
     <div style="background: #fff; border: 2px solid #eee; border-radius: 12px; overflow: hidden; text-align: center; transition: transform 0.3s; padding: 20px;">
       <img src="../images/迎新聚餐.jpg" alt="迎新活动" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
