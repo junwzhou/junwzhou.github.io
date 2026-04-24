@@ -19,13 +19,26 @@ my research focuses on **computer vision**, **system security**, and **intellige
 
 * **Ph.D. in Electronic Engineering**, 2011–2014  
   City University of Hong Kong  
-  Advisor: [Prof. Kwok-Wo Wong](https://www.cityu.edu.hk/)  
-
-* **Postdoctoral Researcher**, 2018–2020  
-  Pennsylvania State University, USA  
+  Advisor: [Prof. Kwok-Wo Wong](https://www.cityu.edu.hk/)
 
 * **Visiting Scholar**, 2013–2014  
-  Politecnico di Torino, Italy  
+  Politecnico di Torino, Italy
+
+* **Associate Professor**, 2014-2021
+  School of Computer Science and Technology, Wuhan University of Technology
+
+* **Postdoctoral Researcher**, 2018–2020  
+  Pennsylvania State University, USA
+  
+* **Professor**, 2020-2023
+  Mechanical and Electronic Engineering, Xinjiang Vocational University (Aiding Xinjiang)
+
+* **Associate Professor**, 2021-2023
+  School of Computer and Artificial Intelligence, Wuhan University of Technology
+
+* **Professor**, 2023 – Present
+  School of Computer and Artificial Intelligence, Wuhan University of Technology
+ 
 
 ## Research Highlights
 
