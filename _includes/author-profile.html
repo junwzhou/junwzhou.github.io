@@ -112,11 +112,6 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
-      {% if page.url == "/" or page.url == "/zh/" %}
-        <li class="author-stats">
-          <iframe src="https://datastudio.google.com/embed/reporting/1afa3545-f9e9-40a1-a746-2d164ff36a61/page/Oah7F" title="Website visitor statistics" loading="lazy" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-        </li>
-      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
