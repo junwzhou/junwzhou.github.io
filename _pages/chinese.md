@@ -28,7 +28,7 @@ redirect_from:
 
 ## 个人简介
 
-周俊伟，武汉理工大学计算机与人工智能学院教授、博士生导师，现任学院副院长。主要从事系统与软件安全、系统日志异常检测与根因分析、工业控制系统安全、数据安全等方面的研究。
+周俊伟，武汉理工大学计算机与人工智能学院教授、博士生导师，现任学院副院长。主要从事系统与软件安全、编码与压缩、计算机视觉、系统日志异常检测与根因分析、工业控制系统安全、数据安全等方面的研究。
 
 ## 研究方向
 
@@ -37,6 +37,8 @@ redirect_from:
   <div class="research-card"><strong>日志智能分析</strong><span>日志异常检测、跨系统迁移与根因分析。</span></div>
   <div class="research-card"><strong>工业控制系统安全</strong><span>工业协议解析、安全测试与威胁诊断。</span></div>
   <div class="research-card"><strong>数据安全</strong><span>隐私保护计算与安全数据处理。</span></div>
+  <div class="research-card"><strong>编码与压缩</strong><span>分布式信源编码、图像与视频压缩、压缩与加密联合设计。</span></div>
+  <div class="research-card"><strong>计算机视觉</strong><span>视觉识别、人脸特征点定位与隐私保护视觉智能。</span></div>
 </div>
 
 ## 代表性论文

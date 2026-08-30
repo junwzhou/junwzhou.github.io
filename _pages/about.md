@@ -21,7 +21,7 @@ redirect_from:
 
 ## About
 
-I am a Professor and Doctoral Supervisor at the School of Computer Science and Artificial Intelligence, Wuhan University of Technology, where I currently serve as Deputy Dean. My research focuses on dependable and secure intelligent systems, with particular interests in system and software security, intelligent log analysis, industrial control system security, and data security.
+I am a Professor and Doctoral Supervisor at the School of Computer Science and Artificial Intelligence, Wuhan University of Technology, where I currently serve as Deputy Dean. My research focuses on dependable and secure intelligent systems, with particular interests in system and software security, coding and compression, computer vision, intelligent log analysis, industrial control system security, and data security.
 
 ## Research Areas
 
@@ -30,6 +30,8 @@ I am a Professor and Doctoral Supervisor at the School of Computer Science and A
   <div class="research-card"><strong>Intelligent Log Analysis</strong><span>Log anomaly detection, cross-system transfer, and root cause analysis.</span></div>
   <div class="research-card"><strong>Industrial Control Security</strong><span>Industrial protocol analysis, testing, and threat diagnosis.</span></div>
   <div class="research-card"><strong>Data Security</strong><span>Privacy-preserving computation and secure data processing.</span></div>
+  <div class="research-card"><strong>Coding & Compression</strong><span>Distributed source coding, image and video compression, and joint compression-encryption.</span></div>
+  <div class="research-card"><strong>Computer Vision</strong><span>Visual recognition, facial landmark localization, and privacy-aware visual intelligence.</span></div>
 </div>
 
 ## Selected Publications

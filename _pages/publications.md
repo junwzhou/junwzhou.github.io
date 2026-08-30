@@ -5,14 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+This list was imported from my Google Scholar export and screened to remove preprints, committee records, obvious namesake results, and articles published in fully open-access journals. Bibliographic details follow the supplied Scholar export; venue names are normalized only when the export clearly identifies the publication. [中文列表](/zh/publications/)
+
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find the latest citation information on <a href="{{ author.googlescholar }}">Google Scholar</a>.
 {% endif %}
 
-This page lists selected, verified publications. Citation details link to the publisher or DOI record. [中文列表](/zh/publications/)
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign current_year = "" %}
+<div class="publication-list">
+{% for pub in site.data.publications %}
+  {% if pub.year != current_year %}
+    {% unless current_year == "" %}</section>{% endunless %}
+    <section class="publication-year">
+    <h2>{{ pub.year }}</h2>
+    {% assign current_year = pub.year %}
+  {% endif %}
+  <article class="publication-entry">
+    <h3>{{ pub.title }}</h3>
+    <p class="publication-authors">{{ pub.authors }}</p>
+    <p class="publication-venue">{{ pub.venue }}</p>
+  </article>
 {% endfor %}
+{% unless current_year == "" %}</section>{% endunless %}
+</div>

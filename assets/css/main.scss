@@ -125,6 +125,14 @@
 .news-card__body p { margin: 0; }
 .news-photo { width: 100%; max-height: 560px; object-fit: cover; border-radius: .85rem; }
 
+.publication-year { margin: 0 0 2.1rem; }
+.publication-year > h2 { color: var(--research-blue-dark); border-bottom: 2px solid var(--research-line); padding-bottom: .45rem; }
+.publication-entry { padding: .9rem 0 1rem; border-bottom: 1px solid var(--research-line); }
+.publication-entry h3 { margin: 0 0 .4rem; color: var(--research-ink); font-size: 1rem; line-height: 1.45; }
+.publication-entry p { margin: .2rem 0; }
+.publication-authors { color: #526579; font-size: .88rem; }
+.publication-venue { color: var(--research-blue-dark); font-size: .86rem; font-style: italic; }
+
 @media (max-width: 640px) {
   .research-grid { grid-template-columns: 1fr; }
   .news-grid { grid-template-columns: 1fr; }

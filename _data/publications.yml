@@ -1,0 +1,352 @@
+# Imported from the user-provided Google Scholar export on 2026-08-30.
+# Preprints, committee records, obvious namesake results, and fully open-access journal articles are excluded.
+- scholar_order: 2
+  year: "2026"
+  title: "CODIC: Distributed Image Compression with Distortion-Perception Co-Optimization"
+  authors: "G Xu, C Tan, J Xiang, J Zhou"
+  venue: "IEEE Transactions on Multimedia"
+- scholar_order: 3
+  year: "2026"
+  title: "SHRD: A Scalable Scheme for Hierarchical File Sharing with Rank-Aware Dissemination"
+  authors: "S Wang, J Gan, C Zhao, F Wang, J Zhou, H Liu, K Liang"
+  venue: "IEEE Transactions on Information Forensics and Security"
+- scholar_order: 7
+  year: "2025"
+  title: "Generation of Hard SAT Instances and Its Application in Negative Databases for Privacy Enhancement"
+  authors: "D Zhao, P Chen, C Song, J Xiang, J Zhou, Z Tang, B Song"
+  venue: "IEEE Transactions on Big Data"
+- scholar_order: 8
+  year: "2025"
+  title: "Practical Lossless Recompression of JPEG Images Using Transform Domain Prediction"
+  authors: "L Chen, W Hu, R Hao, J Zhou, J Xiang"
+  venue: "2025 32nd Asia-Pacific Software Engineering Conference (APSEC), 623-633"
+- scholar_order: 10
+  year: "2025"
+  title: "Oracle character recognition using universal inverted bottleneck and inverse image frequency: J. Zhou et al."
+  authors: "J Zhou, Q Tu, G Xu"
+  venue: "International Journal on Document Analysis and Recognition (IJDAR), 2025"
+- scholar_order: 11
+  year: "2025"
+  title: "Poster: LogCADA: Cross-System Log Anomaly Detection based on Two-Stage Multi-Source Domain Adaptation"
+  authors: "J Zhou, Y Zhu, L Wang, J Xiang, C Tan, Y Yang"
+  venue: "ACM CCS 2025"
+- scholar_order: 12
+  year: "2025"
+  title: "Poster: GLog: Self-Evolving Log Anomaly Type Prediction via Instruction-Tuned LLM and Clustering"
+  authors: "JW Zhou, Y Gao, C Tan, Y Yang, J Xiang"
+  venue: "ACM CCS 2025"
+- scholar_order: 13
+  year: "2025"
+  title: "DVSTdetector: Dual-View Spatio-Temporal Representation Learning for Intrusion Detection in Industrial Control System"
+  authors: "X Zhang, Q Zheng, R Hao, Z Xia, J Zhou, J Xiang"
+  venue: "IEEE ISSRE 2025"
+- scholar_order: 14
+  year: "2025"
+  title: "AMDIC: Adaptive Multi-Granularity Joint Context Transfer for Distributed Image Coding"
+  authors: "B Zhang, J Zhou, Y Yang, J Xiang"
+  venue: "Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 462-476"
+- scholar_order: 16
+  year: "2025"
+  title: "Jpeg stereo image lossy recompression with mutual information enhancement"
+  authors: "J Zhou, B Zhang, S Wu, L Zhou, Y Yang, J Xiang"
+  venue: "Multimedia Systems 31 (5), 373"
+- scholar_order: 17
+  year: "2025"
+  title: "Asymmetric image encryption-hiding scheme based on reversible neural network"
+  authors: "M Liu, G Ye, J Zhou"
+  venue: "Science China Technological Sciences 68 (9), 1920405"
+- scholar_order: 20
+  year: "2025"
+  title: "Cross-project aging-related bug prediction based on transfer learning and class imbalance learning"
+  authors: "B Xu, D Zhao, J Zhou, W Xie, K Jia, J Tian, J Xiang"
+  venue: "IEEE Transactions on Dependable and Secure Computing 22 (5), 5549-5566"
+- scholar_order: 21
+  year: "2025"
+  title: "DDVC: Deep Distributed Video Coding Using Quality Enhancement Network"
+  authors: "J Zhou, Z Ye, X Yi, W Zhang, Q Lin, J Xiang"
+  venue: "IEEE Transactions on Circuits and Systems for Video Technology"
+- scholar_order: 24
+  year: "2025"
+  title: "Logdlr: Unsupervised cross-system log anomaly detection through domain-invariant latent representation"
+  authors: "J Zhou, S Ying, S Wang, D Zhao, J Xiang, K Liang, P Liu"
+  venue: "IEEE Transactions on Dependable and Secure Computing"
+- scholar_order: 26
+  year: "2025"
+  title: "Drllog: Deep reinforcement learning for online log anomaly detection"
+  authors: "J Zhou, Y Gao, Y Zhu, X Yu, Y Yang, C Tan, J Xiang"
+  venue: "IEEE Transactions on Network and Service Management"
+- scholar_order: 28
+  year: "2025"
+  title: "RSTSIC: Reparameterized Swin Transformer Stereo Image Compression"
+  authors: "Y Zhao, J Zhou, J Li, C Tan, J Xiang"
+  venue: "Asian Conference on Machine Learning (ACML 2025)"
+- scholar_order: 30
+  year: "2024"
+  title: "Fast Encrypted Image Classification Based on Approximate Matrix Multiplication Without Multiplying"
+  authors: "J Zhou, K Song, B Lei"
+  venue: "International Conference on Ubiquitous Security 2024"
+- scholar_order: 31
+  year: "2024"
+  title: "Block-Feature Fusion for Privacy-Protected Iris Recognition"
+  authors: "WU Wickramaarachchi, J Zhou, D Zhao, J Xiang"
+  venue: "IEEE TrustCom 2024"
+- scholar_order: 32
+  year: "2024"
+  title: "Lightweight Autoencoder with Hierarchical Priors for Learned Image Compression"
+  authors: "J Zhou, Q Huang, T Xiang, L Zhou, Y Yang, J Xiang"
+  venue: "IEEE HPCC 2024"
+- scholar_order: 36
+  year: "2024"
+  title: "Evolutionary optimization with a simplified helper task for high-dimensional expensive multiobjective problems"
+  authors: "X Wu, Q Lin, J Zhou, S Liu, CA Coello Coello, VCM Leung"
+  venue: "ACM Transactions on Evolutionary Learning 4 (4), 1-32"
+- scholar_order: 41
+  year: "2024"
+  title: "CIDF: Combined Intrusion Detection Framework in Industrial Control Systems based on Packet Signature and Enhanced FSFDP"
+  authors: "J Xiang, X Zhang, Q Zheng, L Deng, D Zhao, J Zhou"
+  venue: "Asia-Pacific Symposium on Internetware 2024"
+- scholar_order: 43
+  year: "2024"
+  title: "AEDD: Anomaly Edge Detection Defense for Visual Recognition in Autonomous Vehicle Systems"
+  authors: "L Wang, J Zhou, D Zhao, D Liao, M Wang, J Xiang"
+  venue: "IEEE CSCWD 2024"
+- scholar_order: 45
+  year: "2024"
+  title: "Learning-based directional improvement prediction for dynamic multiobjective optimization"
+  authors: "Y Ye, S Liu, J Zhou, Q Lin, M Jiang, KC Tan"
+  venue: "IEEE Transactions on Evolutionary Computation 29 (4), 948-962"
+- scholar_order: 48
+  year: "2024"
+  title: "An effective iris biometric privacy protection scheme with renewability"
+  authors: "WU Wickramaarachchi, D Zhao, J Zhou, J Xiang"
+  venue: "Journal of Information Security and Applications 80, 103684"
+- scholar_order: 50
+  year: "2024"
+  title: "Improving effort-aware defect prediction by directly learning to rank software modules"
+  authors: "X Yu, J Rao, L Liu, G Lin, W Hu, JW Keung, J Zhou, J Xiang"
+  venue: "Information and Software Technology 165, 107250"
+- scholar_order: 51
+  year: "2023"
+  title: "A New Dataset for Intrusion Detection in Industrial Control System: A Gas Pipeline Testbed Study"
+  authors: "L Deng, X Zhang, Q Zheng, D Zhao, J Zhou, J Xiang"
+  venue: "2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications"
+- scholar_order: 52
+  year: "2023"
+  title: "Cross-project aging-related bug prediction based on feature transfer and class imbalance learning"
+  authors: "W Xie, C Zhang, K Jia, D Zhao, J Zhou, J Tian, J Xiang"
+  venue: "IEEE ISSRE 2023"
+- scholar_order: 56
+  year: "2023"
+  title: "Neural net-enhanced competitive swarm optimizer for large-scale multiobjective optimization"
+  authors: "L Li, Y Li, Q Lin, S Liu, J Zhou, Z Ming, CAC Coello"
+  venue: "IEEE Transactions on Cybernetics"
+- scholar_order: 62
+  year: "2023"
+  title: "Secure genotype imputation using homomorphic encryption"
+  authors: "J Zhou, B Lei, H Lang, E Panaousis, K Liang, J Xiang"
+  venue: "Journal of information security and applications 72, 103386"
+- scholar_order: 65
+  year: "2022"
+  title: "CBSDI: Cross-architecture binary code similarity detection based on index table"
+  authors: "L Deng, D Zhao, J Zhou, Z Xia, J Xiang"
+  venue: "IEEE QRS 2022"
+- scholar_order: 68
+  year: "2022"
+  title: "Homomorphic multi-label classification of virus strains"
+  authors: "J Zhou, B Lei, H Lang"
+  venue: "IEEE ISSRE Workshops 2022"
+- scholar_order: 71
+  year: "2022"
+  title: "Deepsyslog: Deep anomaly detection on syslog using sentence embedding and metadata"
+  authors: "J Zhou, Y Qian, Q Zou, P Liu, J Xiang"
+  venue: "IEEE Transactions on Information Forensics and Security"
+- scholar_order: 72
+  year: "2022"
+  title: "Auglog: System log anomaly detection based on contrastive learning and data augmentation"
+  authors: "J Zhou, Y Qian"
+  venue: "International Conference on Data Science and Information Technology 2022"
+- scholar_order: 73
+  year: "2022"
+  title: "Face Template Protection Through Incremental Learning and Error-Correcting Codes"
+  authors: "J Zhou, L Nie, D Shang, X Yi"
+  venue: "International Conference on Signal and Image Processing 2022"
+- scholar_order: 80
+  year: "2022"
+  title: "End-to-end distributed video coding"
+  authors: "J Zhou, T Lv, XB Yi"
+  venue: "2022 Data Compression Conference (DCC), 496-496"
+- scholar_order: 86
+  year: "2021"
+  title: "Learning to rank software modules for effort-aware defect prediction"
+  authors: "J Rao, X Yu, C Zhang, J Zhou, J Xiang"
+  venue: "IEEE QRS 2021"
+- scholar_order: 87
+  year: "2021"
+  title: "A cross-project aging-related bug prediction approach based on joint probability domain adaptation and k-means SMOTE"
+  authors: "D Li, M Liang, B Xu, X Yu, J Zhou, J Xiang"
+  venue: "IEEE QRS 2021"
+- scholar_order: 88
+  year: "2021"
+  title: "Face template protection through residual learning based error-correcting codes"
+  authors: "J Zhou, D Shang, H Lang, G Ye, Z Xia"
+  venue: "International Conference on Control and Computer Vision 2021"
+- scholar_order: 90
+  year: "2021"
+  title: "Face alignment using two-stage cascaded pose regression and mirror error correction"
+  authors: "Z Tong, J Zhou"
+  venue: "Pattern Recognition 115, 107866"
+- scholar_order: 93
+  year: "2021"
+  title: "Accurate and robust stereo direct visual odometry for agricultural environment"
+  authors: "T Yu, J Zhou, L Wang, S Xiong"
+  venue: "IEEE ICRA 2021"
+- scholar_order: 96
+  year: "2021"
+  title: "Face anti-spoofing based on dynamic color texture analysis using local directional number pattern"
+  authors: "J Zhou, K Shu, P Liu, J Xiang, S Xiong"
+  venue: "IEEE ICPR 2020"
+- scholar_order: 99
+  year: "2020"
+  title: "Modified decoding metric of distributed arithmetic coding"
+  authors: "Y Yang, M Qi, J Zhou, LM Cheng"
+  venue: "IEEE ICIP 2020"
+- scholar_order: 100
+  year: "2020"
+  title: "Cross-project aging-related bug prediction based on joint distribution adaptation and improved subclass discriminant analysis"
+  authors: "B Xu, D Zhao, K Jia, J Zhou, J Tian, J Xiang"
+  venue: "IEEE ISSRE 2020"
+- scholar_order: 102
+  year: "2020"
+  title: "Deep binarized convolutional neural network inferences over encrypted data"
+  authors: "J Zhou, J Li, E Panaousis, K Liang"
+  venue: "IEEE Cyber Security and Cloud Computing 2020"
+- scholar_order: 103
+  year: "2020"
+  title: "Improved metric learning algorithm for person re-identification based on asymmetric metric"
+  authors: "W Rao, M Xu, J Zhou"
+  venue: "IEEE ICAICA 2020"
+- scholar_order: 104
+  year: "2020"
+  title: "Domain adaptation based person-specific face anti-spoofing using color texture features"
+  authors: "J Zhou, K Shu, D Zhao, Z Xia"
+  venue: "International Conference on Machine Learning and Applications 2020"
+- scholar_order: 106
+  year: "2019"
+  title: "Distributed video coding using interval overlapped arithmetic coding"
+  authors: "J Zhou, Y Fu, Y Yang, ATS Ho"
+  venue: "Signal Processing: Image Communication 76, 118-124"
+- scholar_order: 107
+  year: "2019"
+  title: "Robust facial landmark localization based on two-stage cascaded pose regression"
+  authors: "Z Tong, J Zhou, Y Yang, LM Cheng"
+  venue: "AAAI 2019"
+- scholar_order: 108
+  year: "2019"
+  title: "Multi-channel embedding convolutional neural network model for arabic sentiment classification"
+  authors: "A Dahou, S Xiong, J Zhou, MA Elaziz"
+  venue: "ACM Transactions on Asian and Low-Resource Language Information Processing"
+- scholar_order: 109
+  year: "2019"
+  title: "Face template protection using deep LDPC codes learning"
+  authors: "L Chen, G Zhao, J Zhou, ATS Ho, LM Cheng"
+  venue: "IET biometrics 8 (3), 190-197"
+- scholar_order: 111
+  year: "2019"
+  title: "Distributed arithmetic coding for memory sources"
+  authors: "J Zhou, M Qi, Y Yang, S Xiong"
+  venue: "International Conference on Image, Video and Signal Processing 2019"
+- scholar_order: 116
+  year: "2018"
+  title: "Image authentication using distributed arithmetic coding"
+  authors: "J Zhou, F Liu, LM Cheng"
+  venue: "Multimedia Tools and Applications 77 (12), 15505-15520"
+- scholar_order: 119
+  year: "2018"
+  title: "Abnormal driving behavior detection for bus based on the Bayesian classifier"
+  authors: "X Wu, J Zhou, J An, Y Yang"
+  venue: "2018 Tenth International Conference on Advanced Computational Intelligence"
+- scholar_order: 122
+  year: "2017"
+  title: "Real-time Traffic Sign Classification Using Combined Convolutional Neural Networks"
+  authors: "L Chen, G Zhao, JZ Zhou, L Kuang"
+  venue: "Asian Conference on Pattern Recognition 2017"
+- scholar_order: 123
+  year: "2017"
+  title: "Securing outsourced data in the multi-authority cloud with fine-grained access control and efficient attribute revocation"
+  authors: "J Zhou, H Duan, K Liang, Q Yan, F Chen, FR Yu, J Wu, J Chen"
+  venue: "The Computer Journal 60 (8), 1210-1222"
+- scholar_order: 125
+  year: "2017"
+  title: "Robust facial landmark localization using LBP histogram correlation based initialization"
+  authors: "Y Pan, J Zhou, Y Gao, J Xiang, S Xiong, Y Yang"
+  venue: "IEEE FG 2017"
+- scholar_order: 127
+  year: "2017"
+  title: "A Modified Segmentation Approach for Overlapping Elliptical Objects with Various Sizes"
+  authors: "G Zhao, X Zi, K Liang, P Yun, J Zhou"
+  venue: "International Conference on Green, Pervasive, and Cloud Computing 2017"
+- scholar_order: 133
+  year: "2016"
+  title: "Word embeddings and convolutional neural network for arabic sentiment classification"
+  authors: "A Dahou, S Xiong, J Zhou, MH Haddoud, P Duan"
+  venue: "COLING 2016"
+- scholar_order: 134
+  year: "2016"
+  title: "Wave atom transform based image hashing using distributed source coding"
+  authors: "Y Yang, J Zhou, F Duan, F Liu, LM Cheng"
+  venue: "Journal of information security and applications 31, 75-82"
+- scholar_order: 137
+  year: "2016"
+  title: "An efficient tool for industrial control system security analysis"
+  authors: "C Xia, J Tian, E Li, J Zhou, J Xiang, J Wang, L Bai, Y He"
+  venue: "IEEE DASC/PICom/DataCom/CyberSciTech 2016"
+- scholar_order: 138
+  year: "2016"
+  title: "An efficient file hierarchy attribute-based encryption scheme in cloud computing"
+  authors: "S Wang, J Zhou, JK Liu, J Yu, J Chen, W Xie"
+  venue: "IEEE transactions on information forensics and security 11 (6), 1265-1277"
+- scholar_order: 142
+  year: "2015"
+  title: "Wave Atoms Based Image Authentication Using Slepian-Wolf Coding"
+  authors: "J Zhou, F Liu, J Chen, LM Cheng, Y Yang, D Fei"
+  venue: "DCIT 2015"
+- scholar_order: 143
+  year: "2015"
+  title: "Distributed Arithmetic Coding with Interval Swapping"
+  authors: "Junwei Zhou, Kwok-Wo Wong, Yanchao Yang"
+  venue: "Signal Processing"
+- scholar_order: 144
+  year: "2014"
+  title: "A Comparative Study of Various Simultaneous Compression and Encryption Schemes Based on Chaotic Systems"
+  authors: "Qiuzhen Lin, Kwok-Wo Wong, Junwei Zhou, Leo Yu Zhang"
+  venue: "International Symposium on Nonlinear Theory and its Applications 2014"
+- scholar_order: 145
+  year: "2014"
+  title: "A block chaotic image encryption scheme based on self-adaptive modelling"
+  authors: "G Ye, J Zhou"
+  venue: "Applied Soft Computing 22, 351-357"
+- scholar_order: 153
+  year: "2013"
+  title: "Distributed block arithmetic coding for equiprobable sources"
+  authors: "J Zhou, KW Wong, J Chen"
+  venue: "IEEE Sensors Journal 13 (7), 2750-2756"
+- scholar_order: 155
+  year: "2012"
+  title: "Distributed source coding using chaos-based cryptosystem"
+  authors: "J Zhou, KW Wong, J Chen"
+  venue: "Communications in Nonlinear Science and Numerical Simulation 17 (12), 5110-5116"
+- scholar_order: 157
+  year: "2012"
+  title: "Chaos-based joint compression and encryption algorithm for generating variable length ciphertext"
+  authors: "OY Lui, KW Wong, J Chen, J Zhou"
+  venue: "Applied Soft Computing 12 (1), 125-132"
+- scholar_order: 158
+  year: "2011"
+  title: "Improvement of security and feasibility for chaos-based multimedia cryptosystem"
+  authors: "J Chen, J Zhou"
+  venue: "International Conference on Computational Science and Its Applications 2011"
+- scholar_order: 159
+  year: "2011"
+  title: "A modified chaos-based joint compression and encryption scheme"
+  authors: "J Chen, J Zhou, KW Wong"
+  venue: "IEEE Transactions on Circuits and Systems II: Express Briefs, 1-5"
