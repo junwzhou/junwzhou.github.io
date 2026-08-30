@@ -77,9 +77,8 @@ social:
 # Analytics
 analytics:
   provider               : "custom"
-  la:
-    id                   : "3R2iDv16UOcfeJUL"
-    ck                   : "3R2iDv16UOcfeJUL"
+  google:
+    tracking_id          : "G-N7ZM3GSNW6"
 
 
 # Site Author
