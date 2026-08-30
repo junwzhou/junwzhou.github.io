@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <nav class="language-nav" aria-label="中文页面导航">
-  <a href="/zh/">首页</a><a href="/zh/publications/">论文</a><a href="/zh/projects/">项目</a><a href="/zh/team/">团队</a><a href="/zh/news/">新闻</a><a href="/news/">EN</a>
+  <a href="/zh/">首页</a><a href="/zh/publications/">论文</a><a href="/zh/projects/">项目</a><a href="/zh/intellectual-property/">专利与软著</a><a href="/zh/team/">团队</a><a href="/zh/news/">新闻</a><a href="/news/">EN</a>
 </nav>
 
 团队活动与科研动态。尚未核实的活动日期统一标记为“日期待确认”。

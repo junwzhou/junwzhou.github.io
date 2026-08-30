@@ -21,6 +21,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Patents & Software"
+    url: /intellectual-property/
+
   - title: "Team"
     url: /team/
 

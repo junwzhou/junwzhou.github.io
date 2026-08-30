@@ -1,0 +1,22 @@
+- {type: patent, date: "2026-04-28", number: "ZL202411189279.2", zh_title: "轻量级可变比特率多视图图像压缩方法及模型", en_title: "Lightweight Variable-Bitrate Multi-View Image Compression Method and Model"}
+- {type: patent, date: "2026-02-27", number: "ZL202211283747.3", zh_title: "基于轻量级卷积神经网络的古籍汉字识别方法", en_title: "Ancient Chinese Character Recognition Method Based on a Lightweight Convolutional Neural Network"}
+- {type: patent, date: "2025-12-02", number: "ZL202411678268.0", zh_title: "水下的基于PLDNET网络的实时东星斑鱼疾病识别方法", en_title: "Underwater Real-Time Leopard Coral Grouper Disease Recognition Method Based on the PLDNet Network"}
+- {type: patent, date: "2025-11-11", number: "ZL202510156093.5", zh_title: "一种水下豹纹鳃棘鲈表征测量方法、装置、设备及介质", en_title: "Underwater Leopard Coral Grouper Phenotypic Measurement Method, Apparatus, Device, and Medium"}
+- {type: patent, date: "2024-12-03", number: "ZL202411157308.7", zh_title: "基于深度强化学习的实时日志异常检测方法", en_title: "Real-Time Log Anomaly Detection Method Based on Deep Reinforcement Learning"}
+- {type: patent, date: "2024-08-09", number: "ZL202210593207.9", zh_title: "基于鲁棒自适应DAC码的分布式视频编码及解码方法和系统", en_title: "Distributed Video Coding and Decoding Method and System Based on Robust Adaptive DAC Codes"}
+- {type: patent, date: "2022-04-15", number: "ZL202011318867.3", zh_title: "一种基于自适应区间重叠因子的分布式视频编码方法", en_title: "Distributed Video Coding Method Based on an Adaptive Interval Overlap Factor"}
+- {type: patent, date: "2021-05-04", number: "ZL201810576579.4", zh_title: "人脸特征点定位方法、装置、设备及存储介质", en_title: "Facial Landmark Localization Method, Apparatus, Device, and Storage Medium"}
+- {type: software, date: "2026-05-13", number: "20261zc0539", zh_title: "基于立体视觉的东星斑表型测量系统", en_title: "Stereo-Vision-Based Leopard Coral Grouper Phenotypic Measurement System"}
+- {type: software, date: "2025-08-28", number: "20251zc0940", zh_title: "契文星创——甲骨文数字化工具软件", en_title: "Qiwen Xingchuang: Oracle-Bone-Script Digitization Toolkit"}
+- {type: software, date: "2025-07-31", number: "20251zc0800", zh_title: "基于PLDNet的东星斑病害检测系统", en_title: "PLDNet-Based Leopard Coral Grouper Disease Detection System"}
+- {type: software, date: "2025-07-08", number: "20251zc0709", zh_title: "工业玻璃加工图片平滑及压缩处理系统", en_title: "Industrial Glass Processing Image Smoothing and Compression System"}
+- {type: software, date: "2025-06-18", number: "20251zc0627", zh_title: "分布式无损图像压缩软件", en_title: "Distributed Lossless Image Compression Software"}
+- {type: software, date: "2025-06-18", number: "20251zc0626", zh_title: "轻量级深度学习图像压缩软件", en_title: "Lightweight Deep-Learning Image Compression Software"}
+- {type: software, date: "2024-12-02", number: "20241zc1289", zh_title: "智能大语言模型家庭机器人助手系统", en_title: "Intelligent Large-Language-Model Home Robot Assistant System"}
+- {type: software, date: "2024-10-14", number: "20241zc1157", zh_title: "基于视频的南美白对虾心跳计数系统", en_title: "Video-Based Whiteleg Shrimp Heartbeat Counting System"}
+- {type: software, date: "2024-03-07", number: "20241zc0332", zh_title: "东星斑表型识别软件", en_title: "Leopard Coral Grouper Phenotype Recognition Software"}
+- {type: software, date: "2024-01-04", number: "20241zc0026", zh_title: "JPEG图像重压缩系统", en_title: "JPEG Image Recompression System"}
+- {type: software, date: "2024-01-04", number: "20241zc0014", zh_title: "面向Web应用的日志异常检测系统", en_title: "Log Anomaly Detection System for Web Applications"}
+- {type: software, date: "2024-01-04", number: "20241zc0013", zh_title: "深度学习图像压缩识别软件", en_title: "Deep-Learning Image Compression and Recognition Software"}
+- {type: software, date: "2023-03-17", number: "20231zc0169", zh_title: "通信网络设备部署与规划系统V1.0", en_title: "Communication Network Equipment Deployment and Planning System V1.0"}
+- {type: software, date: "2021-04-17", number: "20221zc0335", zh_title: "基于同态加密的基因肿瘤研究分析系统", en_title: "Homomorphic-Encryption-Based Genetic Tumor Research and Analysis System"}
