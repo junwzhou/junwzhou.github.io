@@ -44,6 +44,8 @@ I am a Professor and Doctoral Supervisor at the [School of Artificial Intelligen
 - Intelligent fault localization and analysis based on system runtime logs (2026–2027), Principal Investigator.
 - Artificial intelligence and factor-based quantitative trading systems (2026–2028), Principal Investigator.
 
+[View all projects →](/projects/)
+
 ## Latest News
 
 {% assign news_items = site.news | sort: "order" %}

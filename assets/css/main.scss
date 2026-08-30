@@ -135,6 +135,12 @@
 .publication-authors { color: #526579; font-size: .88rem; }
 .publication-venue { color: var(--research-blue-dark); font-size: .86rem; font-style: italic; }
 
+.project-list { display: grid; gap: 1rem; margin-top: 1rem; }
+.project-entry { padding: 1rem 1.1rem; border: 1px solid var(--research-line); border-radius: .8rem; background: #fff; }
+.project-entry h2 { margin: .25rem 0 .5rem; color: var(--research-ink); font-size: 1.05rem; line-height: 1.45; }
+.project-entry p { margin: .2rem 0; }
+.project-meta { color: #526579; font-size: .88rem; }
+
 @media (max-width: 640px) {
   .research-grid { grid-template-columns: 1fr; }
   .news-grid { grid-template-columns: 1fr; }

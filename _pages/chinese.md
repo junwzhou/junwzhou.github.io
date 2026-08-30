@@ -10,6 +10,7 @@ redirect_from:
 <nav class="language-nav" aria-label="中文页面导航">
   <a href="/zh/">首页</a>
   <a href="/zh/publications/">论文</a>
+  <a href="/zh/projects/">项目</a>
   <a href="/zh/team/">团队</a>
   <a href="/zh/news/">新闻</a>
   <a href="/">EN</a>
@@ -50,6 +51,8 @@ redirect_from:
 - 面向复杂场景的触觉—视觉多模态融合具身智能关键技术（2025—2027），主持。
 - 基于系统运行日志的智能故障定位与分析关键技术研究（2026—2027），主持。
 - 人工智能与因子量化交易系统与策略研发（2026—2028），主持。
+
+[查看全部项目 →](/zh/projects/)
 
 ## 最新消息
 
