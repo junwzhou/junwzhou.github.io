@@ -71,12 +71,6 @@ redirect_from:
 
 [查看全部新闻 →](/zh/news/)
 
-## 访问统计
-
-<div class="analytics-frame">
-  <iframe src="https://datastudio.google.com/embed/reporting/1afa3545-f9e9-40a1-a746-2d164ff36a61/page/Oah7F" title="网站访问统计" loading="lazy" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-</div>
-
 ## 招生与合作
 
 欢迎计算机、人工智能、数学等相关专业，且对人工智能、计算机视觉、系统与软件安全感兴趣的学生申请硕士、博士及博士后岗位。学术交流请发送邮件至 [junweizhou@whut.edu.cn](mailto:junweizhou@whut.edu.cn)。

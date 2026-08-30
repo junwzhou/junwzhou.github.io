@@ -63,12 +63,6 @@ Before taking up my current position, I conducted postdoctoral research at Penns
 
 [All news →](/news/)
 
-## Visitor Statistics
-
-<div class="analytics-frame">
-  <iframe src="https://datastudio.google.com/embed/reporting/1afa3545-f9e9-40a1-a746-2d164ff36a61/page/Oah7F" title="Website visitor statistics" loading="lazy" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-</div>
-
 ## Join the Team
 
 Applicants with backgrounds in computer science, artificial intelligence, mathematics, or related fields who are interested in artificial intelligence, computer vision, and system and software security are welcome to apply for master's, doctoral, and postdoctoral positions. For academic enquiries, please contact [junweizhou@whut.edu.cn](mailto:junweizhou@whut.edu.cn).
