@@ -21,17 +21,13 @@ redirect_from:
 
 ## About
 
-I am a Professor and Doctoral Supervisor at the [School of Artificial Intelligence](https://csai.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), where I currently serve as Deputy Dean. My research focuses on dependable and secure intelligent systems, with particular interests in system and software security, coding and compression, computer vision, intelligent log analysis, industrial control system security, and data security.
+I am a Professor and Doctoral Supervisor at the [School of Artificial Intelligence](https://csai.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), where I currently serve as Deputy Dean. My research focuses on AI for system and software security, coding, compression, and vision.
 
 ## Research Areas
 
 <div class="research-grid">
-  <div class="research-card"><strong>System & Software Security</strong><span>Monitoring, fault tolerance, vulnerability analysis, and dependable software systems.</span></div>
-  <div class="research-card"><strong>Intelligent Log Analysis</strong><span>Log anomaly detection, cross-system transfer, and root cause analysis.</span></div>
-  <div class="research-card"><strong>Industrial Control Security</strong><span>Industrial protocol analysis, testing, and threat diagnosis.</span></div>
-  <div class="research-card"><strong>Data Security</strong><span>Privacy-preserving computation and secure data processing.</span></div>
-  <div class="research-card"><strong>Coding & Compression</strong><span>Distributed source coding, image and video compression, and joint compression-encryption.</span></div>
-  <div class="research-card"><strong>Computer Vision</strong><span>Visual recognition, facial landmark localization, and privacy-aware visual intelligence.</span></div>
+  <div class="research-card"><strong>AI for System &amp; Software Security</strong><span>Intelligent log analysis, industrial control security, data security, vulnerability analysis, fault diagnosis, and dependable software systems.</span></div>
+  <div class="research-card"><strong>AI for Coding and Vision</strong><span>AI coding, AI compression, image and video compression, visual recognition, and privacy-aware visual intelligence.</span></div>
 </div>
 
 ## Selected Publications
