@@ -70,13 +70,15 @@
 .research-hero h1 {
   margin: 0;
   color: #fff;
-  font-size: clamp(2rem, 6vw, 3.75rem);
+  font-size: clamp(1.75rem, 4vw, 2.75rem);
   line-height: 1.06;
 }
 
 .research-hero h1 span { color: #bfe4ec; font-weight: 500; }
 .hero-role { margin: 1rem 0 .25rem; font-size: clamp(1rem, 2.5vw, 1.3rem); font-weight: 700; }
 .hero-summary { margin: 0; color: #dceff3; }
+.research-hero .eyebrow a,
+.research-hero .hero-summary a { color: inherit; text-decoration-color: rgba(255,255,255,.5); }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.5rem; }
 
 .button--primary { background: #fff; color: var(--research-ink) !important; }

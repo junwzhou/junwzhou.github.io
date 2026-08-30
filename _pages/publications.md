@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This list was imported from my Google Scholar export and screened to remove preprints, committee records, obvious namesake results, and articles published in fully open-access journals. Bibliographic details follow the supplied Scholar export; venue names are normalized only when the export clearly identifies the publication. [中文列表](/zh/publications/)
+[中文列表](/zh/publications/)
 
 {% if author.googlescholar %}
 You can also find the latest citation information on <a href="{{ author.googlescholar }}">Google Scholar</a>.

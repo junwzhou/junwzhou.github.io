@@ -16,10 +16,10 @@ redirect_from:
 </nav>
 
 <div class="research-hero">
-  <p class="eyebrow">武汉理工大学</p>
+  <p class="eyebrow"><a href="https://www.whut.edu.cn/">武汉理工大学</a></p>
   <h1>周俊伟 <span>Junwei Zhou</span></h1>
   <p class="hero-role">教授 · 博士生导师 · 副院长</p>
-  <p class="hero-summary">计算机与人工智能学院</p>
+  <p class="hero-summary"><a href="https://csai.whut.edu.cn/">人工智能学院</a></p>
   <div class="hero-actions">
     <a class="button button--primary" href="/zh/publications/">代表性论文</a>
     <a class="button button--outline" href="/">English</a>
@@ -28,7 +28,7 @@ redirect_from:
 
 ## 个人简介
 
-周俊伟，武汉理工大学计算机与人工智能学院教授、博士生导师，现任学院副院长。主要从事系统与软件安全、编码与压缩、计算机视觉、系统日志异常检测与根因分析、工业控制系统安全、数据安全等方面的研究。
+周俊伟，[武汉理工大学](https://www.whut.edu.cn/)[人工智能学院](https://csai.whut.edu.cn/)教授、博士生导师，现任学院副院长。主要从事系统与软件安全、编码与压缩、计算机视觉、系统日志异常检测与根因分析、工业控制系统安全、数据安全等方面的研究。
 
 ## 研究方向
 

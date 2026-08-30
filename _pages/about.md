@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <div class="research-hero">
-  <p class="eyebrow">Wuhan University of Technology</p>
+  <p class="eyebrow"><a href="https://www.whut.edu.cn/">Wuhan University of Technology</a></p>
   <h1>Junwei Zhou <span>周俊伟</span></h1>
   <p class="hero-role">Professor · Doctoral Supervisor · Deputy Dean</p>
-  <p class="hero-summary">School of Computer Science and Artificial Intelligence</p>
+  <p class="hero-summary"><a href="https://csai.whut.edu.cn/">School of Artificial Intelligence</a></p>
   <div class="hero-actions">
     <a class="button button--primary" href="/publications/">Selected publications</a>
     <a class="button button--outline" href="/zh/">中文主页</a>
@@ -21,7 +21,7 @@ redirect_from:
 
 ## About
 
-I am a Professor and Doctoral Supervisor at the School of Computer Science and Artificial Intelligence, Wuhan University of Technology, where I currently serve as Deputy Dean. My research focuses on dependable and secure intelligent systems, with particular interests in system and software security, coding and compression, computer vision, intelligent log analysis, industrial control system security, and data security.
+I am a Professor and Doctoral Supervisor at the [School of Artificial Intelligence](https://csai.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), where I currently serve as Deputy Dean. My research focuses on dependable and secure intelligent systems, with particular interests in system and software security, coding and compression, computer vision, intelligent log analysis, industrial control system security, and data security.
 
 ## Research Areas
 
