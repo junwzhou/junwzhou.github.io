@@ -73,4 +73,4 @@ redirect_from:
 
 ## 招生与合作
 
-欢迎对系统安全、软件可靠性、日志智能分析和工业控制系统安全感兴趣的博士生、硕士生联系。学术交流请发送邮件至 [junweizhou@whut.edu.cn](mailto:junweizhou@whut.edu.cn)。
+欢迎计算机、人工智能、数学等相关专业，且对人工智能、计算机视觉、系统与软件安全感兴趣的学生申请硕士、博士及博士后岗位。学术交流请发送邮件至 [junweizhou@whut.edu.cn](mailto:junweizhou@whut.edu.cn)。
