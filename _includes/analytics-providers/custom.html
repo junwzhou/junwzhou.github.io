@@ -1,3 +1,12 @@
 <!-- start custom analytics snippet -->
-
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.analytics.google.tracking_id }}', {
+    'allow_google_signals': false,
+    'allow_ad_personalization_signals': false
+  });
+</script>
 <!-- end custom analytics snippet -->
