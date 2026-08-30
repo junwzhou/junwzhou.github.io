@@ -1,98 +1,66 @@
 ---
 permalink: /
-title: "Junwei Zhou, Ph.D."
-excerpt: "Professor of Artificial Intelligence | Computer Vision & System Security"
+title: "Junwei Zhou"
+excerpt: "Professor and Doctoral Supervisor | System & Software Security"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Full Professor and Doctoral Supervisor at Wuhan University of Technology (WHUT),  
-where I serve as Director of the Center for Computer and Artificial Intelligence Technologies  
-and lead the Artificial Intelligence undergraduate program.
+<div class="research-hero">
+  <p class="eyebrow">Wuhan University of Technology</p>
+  <h1>Junwei Zhou <span>周俊伟</span></h1>
+  <p class="hero-role">Professor · Doctoral Supervisor · Deputy Dean</p>
+  <p class="hero-summary">School of Computer Science and Artificial Intelligence</p>
+  <div class="hero-actions">
+    <a class="button button--primary" href="/publications/">Selected publications</a>
+    <a class="button button--outline" href="/zh/">中文主页</a>
+  </div>
+</div>
 
-Honored as a **Chutian Scholar** (Hubei Province's prestigious talent award),  
-my research focuses on **computer vision**, **system security**, and **intelligent data processing**.
+## About
 
-## Academic Background
+I am a Professor and Doctoral Supervisor at the School of Computer Science and Artificial Intelligence, Wuhan University of Technology, where I currently serve as Deputy Dean. My research focuses on dependable and secure intelligent systems, with particular interests in system and software security, intelligent log analysis, industrial control system security, and data security.
 
-* **Ph.D. in Electronic Engineering**, 2011–2014  
-  City University of Hong Kong  
-  Advisor: [Prof. Kwok-Wo Wong](https://www.cityu.edu.hk/)
+## Research Areas
 
-* **Visiting Scholar**, 2013–2014  
-  Politecnico di Torino, Italy
+<div class="research-grid">
+  <div class="research-card"><strong>System & Software Security</strong><span>Monitoring, fault tolerance, vulnerability analysis, and dependable software systems.</span></div>
+  <div class="research-card"><strong>Intelligent Log Analysis</strong><span>Log anomaly detection, cross-system transfer, and root cause analysis.</span></div>
+  <div class="research-card"><strong>Industrial Control Security</strong><span>Industrial protocol analysis, testing, and threat diagnosis.</span></div>
+  <div class="research-card"><strong>Data Security</strong><span>Privacy-preserving computation and secure data processing.</span></div>
+</div>
 
-* **Associate Professor**, 2014-2021
-  School of Computer Science and Technology, Wuhan University of Technology
+## Selected Publications
 
-* **Postdoctoral Researcher**, 2018–2020  
-  Pennsylvania State University, USA
-  
-* **Professor**, 2020-2023
-  Mechanical and Electronic Engineering, Xinjiang Vocational University (Aiding Xinjiang)
+- **LogDLR: Unsupervised Cross-System Log Anomaly Detection Through Domain-Invariant Latent Representation.** *IEEE Transactions on Dependable and Secure Computing*, 2025. [DOI](https://doi.org/10.1109/TDSC.2025.3548050)
+- **DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata.** *IEEE Transactions on Information Forensics and Security*, 2022. [DOI](https://doi.org/10.1109/TIFS.2022.3201379)
+- **Poster: GLog: Self-Evolving Log Anomaly Type Prediction via Instruction-Tuned LLM and Clustering.** *ACM CCS*, 2025. [DOI](https://doi.org/10.1145/3719027.3760727)
 
-* **Associate Professor**, 2021-2023
-  School of Computer and Artificial Intelligence, Wuhan University of Technology
+[View all listed publications →](/publications/)
 
-* **Professor**, 2023 – Present
-  School of Computer and Artificial Intelligence, Wuhan University of Technology
- 
+## Current Research Projects
 
-## Research Highlights
+- Multimodal embodied intelligence through tactile-visual fusion (2025–2027), Principal Investigator.
+- Intelligent fault localization and analysis based on system runtime logs (2026–2027), Principal Investigator.
+- Artificial intelligence and factor-based quantitative trading systems (2026–2028), Principal Investigator.
 
-* Lead **14 research projects**, including 4 national/provincial grants  
-  (NSFC Youth Fund, Huawei collaborations)  
+## Latest News
 
-* Published **60+ papers** in IEEE/ACM/CCF venues  
-  (H-index: 15, Citations: 1200+)  
+{% assign news_items = site.news | sort: "order" %}
+<div class="news-list">
+{% for item in news_items limit:3 %}
+  <article class="news-item">
+    <p class="news-meta">{{ item.category_en }}</p>
+    <h3><a href="{{ item.url }}">{{ item.title_en }}</a></h3>
+    <p>{{ item.summary_en }}</p>
+  </article>
+{% endfor %}
+</div>
 
-* Hold **3 patents** in:  
-  - Distributed video coding  
-  - Facial landmark detection  
+[All news →](/news/)
 
-* Awards:  
-  - Best Paper Award, National Computer Education Conference (2021)  
-  - Huawei Pioneer Teacher (2020)  
-  - Huawei Distinguished Mentor (2022)  
+## Join the Team
 
-## Academic Service
-
-* Associate Editor: *HKIE Transactions*  
-* Program Committee: ACL, EMNLP, Coling  
-* Workshop Chair: ISSRE  
-
-## Teaching & Mentoring
-
-* Established WHUT's:  
-  - Data Science program  
-  - AI undergraduate program  
-
-* Teach courses:  
-  - Computer Vision  
-  - Big Data Mining  
-
-* Supervised award-winning teams at:  
-  - China Collegiate Computing Contest (2016–2018)  
-  - National Postgraduate Mobile App Design Contest  
-
-## Open Positions
-
-I welcome applications from:  
-* Postdoctoral researchers  
-* Ph.D./Master's students  
-
-**Research Areas**:  
-Computer vision, AI security, intelligent systems  
-
-**Contact**: junweizhou@msn.com  
-
----
-
-### Recent News
-
-* **Dec 2023**: Appointed Full Professor at WHUT  
-* **Apr 2022**: Patent granted for adaptive video coding  
-  ([ZL202011318867.3](http://patent.com))  
-* **2021**: "Excellent" rating for Huawei's computer vision curriculum reform  
+We welcome motivated doctoral and master's students interested in system security, software reliability, intelligent log analysis, and industrial control system security. For academic enquiries, please contact [junweizhou@whut.edu.cn](mailto:junweizhou@whut.edu.cn).

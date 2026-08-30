@@ -1,62 +1,73 @@
 ---
 layout: archive
-title: 
-permalink: /chinese/
+title: "周俊伟"
+permalink: /zh/
 author_profile: true
+redirect_from:
+  - /chinese/
 ---
 
-## 学术职务
-- 博士生导师，楚天学者特聘教授
-- 武汉理工大学人工智能专业负责人
-- 计算机与人工智能新技术中心主任
+<nav class="language-nav" aria-label="中文页面导航">
+  <a href="/zh/">首页</a>
+  <a href="/zh/publications/">论文</a>
+  <a href="/zh/team/">团队</a>
+  <a href="/zh/news/">新闻</a>
+  <a href="/">EN</a>
+</nav>
 
-## 教育背景
-- **2007年** 湖南大学 软件工程 学士  
-- **2011年** 深圳大学 计算机应用技术 硕士  
-- **2015年** 香港城市大学 电子工程 博士  
-- **博士后** 美国宾夕法尼亚州立大学  
+<div class="research-hero">
+  <p class="eyebrow">武汉理工大学</p>
+  <h1>周俊伟 <span>Junwei Zhou</span></h1>
+  <p class="hero-role">教授 · 博士生导师 · 副院长</p>
+  <p class="hero-summary">计算机与人工智能学院</p>
+  <div class="hero-actions">
+    <a class="button button--primary" href="/zh/publications/">代表性论文</a>
+    <a class="button button--outline" href="/">English</a>
+  </div>
+</div>
 
-## 学术经历
-- **2013年–2014年** 意大利都灵理工大学 访问学者（卫星图像加密算法研究） 
-- **2015年** 香港城市大学 研究助理
-- **2014年–2021年** 武汉理工大学 计算机科学与技术学院 副教授
-- **2020年–2023年** 新疆职业大学 机械电子工程学院（援疆工作）教授
-- **2021年–2023年** 武汉理工大学 计算机与人工智能学院 副教授
-- **2023年–至今** 武汉理工大学 计算机与人工智能学院教授
+## 个人简介
+
+周俊伟，武汉理工大学计算机与人工智能学院教授、博士生导师，现任学院副院长。主要从事系统与软件安全、系统日志异常检测与根因分析、工业控制系统安全、数据安全等方面的研究。
 
 ## 研究方向
-**计算机视觉** | **系统安全** | **大数据技术**  
-- 主持申报武汉理工大学"数据科学与大数据技术"、"人工智能"本科专业
-- 主讲课程：计算机视觉、大数据技术、数据挖掘
 
-## 科研项目
-- **主持课题**：14项（省部级以上4项）
-  - 湖北省自然科学奖三等奖（第一完成人）
-  - 教育部协同育人项目（结题优秀）
-- **参与课题**：11项（省部级以上6项，军工横向2项）
+<div class="research-grid">
+  <div class="research-card"><strong>系统与软件安全</strong><span>软件监控、故障容错、漏洞分析与可信软件系统。</span></div>
+  <div class="research-card"><strong>日志智能分析</strong><span>日志异常检测、跨系统迁移与根因分析。</span></div>
+  <div class="research-card"><strong>工业控制系统安全</strong><span>工业协议解析、安全测试与威胁诊断。</span></div>
+  <div class="research-card"><strong>数据安全</strong><span>隐私保护计算与安全数据处理。</span></div>
+</div>
 
-## 学术成果
-- **论文发表**：60余篇
-  - IEEE/ACM会刊11篇
-  - CCF A/B类论文11篇
-  - Google Scholar引用1200+次（H指数15，i10指数26）
-- **知识产权**：授权发明专利3项
+## 代表性论文
 
-## 人才培养
-指导学生获省部级以上创新创业大赛奖项5项
+- **LogDLR: Unsupervised Cross-System Log Anomaly Detection Through Domain-Invariant Latent Representation.** *IEEE Transactions on Dependable and Secure Computing*, 2025。[DOI](https://doi.org/10.1109/TDSC.2025.3548050)
+- **DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata.** *IEEE Transactions on Information Forensics and Security*, 2022。[DOI](https://doi.org/10.1109/TIFS.2022.3201379)
+- **Poster: GLog: Self-Evolving Log Anomaly Type Prediction via Instruction-Tuned LLM and Clustering.** *ACM CCS*, 2025。[DOI](https://doi.org/10.1145/3719027.3760727)
 
-## 联系方式
-- 邮箱：junweizhou@msn.com
-- 地址：武汉理工大学计算机与人工智能学院
+[查看论文列表 →](/zh/publications/)
 
+## 在研项目
 
+- 面向复杂场景的触觉—视觉多模态融合具身智能关键技术（2025—2027），主持。
+- 基于系统运行日志的智能故障定位与分析关键技术研究（2026—2027），主持。
+- 人工智能与因子量化交易系统与策略研发（2026—2028），主持。
 
-<!-- 我目前的研究兴趣是推荐系统、公平性和时间序列。
+## 最新消息
 
-我目前是[香港科技大学](https://hkust.edu.hk/)计算机科学与工程专业的博士生，于 2023 年秋季入学，师从[Raymond Wong 教授](https://www.cse.ust.hk/~raywong/)。
+{% assign news_items = site.news | sort: "order" %}
+<div class="news-list">
+{% for item in news_items limit:3 %}
+  <article class="news-item">
+    <p class="news-meta">{{ item.category_zh }}</p>
+    <h3><a href="{{ item.url }}#zh">{{ item.title_zh }}</a></h3>
+    <p>{{ item.summary_zh }}</p>
+  </article>
+{% endfor %}
+</div>
 
-我在[北京邮电大学(BUPT)](http://www.bupt.edu.cn/) 获得计算机科学学士学位，在[王敬宇教授](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao) 指导下，我的毕业设计 "基于交互式搜索的 Top-k 公平性研究 "获得北京市普通高校优秀本科毕业设计（论文）奖。
+[查看全部新闻 →](/zh/news/)
 
-我曾在[北京邮电大学徐梦炜教授](https://xumengwei.github.io/)和[微软亚洲研究院曹婷博士](https://www.microsoft.com/en-us/research/people/ticao/)的指导下研究移动计算机系统。
+## 招生与合作
 
-我曾作为访问学生在[英属哥伦比亚大学](https://ece.ubc.ca/)从事动态图算法的研究，导师是[Matei Ripeanu 教授](https://people.ece.ubc.ca/matei/)，该研究得到了[Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) 和[国家留学基金委](https://www.csc.edu.cn/)的支持。 -->
+欢迎对系统安全、软件可靠性、日志智能分析和工业控制系统安全感兴趣的博士生、硕士生联系。学术交流请发送邮件至 [junweizhou@whut.edu.cn](mailto:junweizhou@whut.edu.cn)。

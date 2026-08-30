@@ -22,21 +22,27 @@ Education
 Professional Experience
 ======
 
-* **Professor**, Wuhan University of Technology  
-  *Dec 2023 – Present*  
-  - Teaching and research in computer science.  
+* **Professor and Doctoral Supervisor**, Wuhan University of Technology
+
+  *Dec 2023 – Present*
+
+  - Deputy Dean, School of Computer Science and Artificial Intelligence, since June 2024.
 
 * **Dean & Professor**, Xinjiang Vocational University (Aid-Xinjiang Program)  
   *Oct 2020 – Jul 2023*  
   - Led the School of Mechanical and Electronic Engineering.  
 
-* **Postdoctoral Researcher**, Pennsylvania State University, USA  
-  *Nov 2018 – Feb 2020*  
+* **Postdoctoral Researcher**, Pennsylvania State University, USA
+
+  *Oct 2018 – Sep 2020*
+
   - Advisor: Prof. Peng Liu  
   - Research focus: Cybersecurity and network reliability.  
 
-* **Visiting Scholar**, Politecnico di Torino, Italy  
-  *Dec 2013 – Apr 2014*  
+* **Assistant Researcher**, Politecnico di Torino, Italy
+
+  *Dec 2013 – Apr 2014*
+
   - Collaborated with Prof. Enrico Magli on distributed arithmetic coding for multimedia compression.  
 
 Research Projects (Selected)
@@ -50,25 +56,19 @@ Research Projects (Selected)
   *Jan 2017 – Dec 2019* | Principal Investigator  
   - Low-complexity video compression for wireless multimedia sensors.  
 
-* **Industry Collaboration**  
-  *Feb 2021 – Present* | Principal Investigator  
-  - Developed OCR for rare Chinese characters and computer vision simulation platforms.  
+* **Multimodal Embodied Intelligence through Tactile-Visual Fusion**
 
-Honors and Awards
-======
+  *2025 – 2027* | Principal Investigator
 
-Chutian Scholar (Young Talent), Hubei Province, 2015\
-Huawei Pioneer Teacher, 2020\
-Best Paper Award, National Conference on Pervasive Computing (PCC 2020)\
-First Prize, National Computer Education Conference, 2021
+* **Intelligent Fault Localization and Analysis Based on System Runtime Logs**
 
-
+  *2026 – 2027* | Principal Investigator
 
 Patents and Software
 ======
 Zhou, J., et al. "Distributed Video Coding via Adaptive Interval Overlap Factor." Patent ZL202011318867.3, 2022.\
 Zhou, J., et al. "Facial Landmark Localization Method and Device." Patent ZL201810576579.4, 2021.\
-Zhou, J., et al. "Android Attendance System Based on Face Recognition." Patent 2016SR351580, 2016.
+Zhou, J., et al. "Robust Adaptive DAC-based Distributed Video Coding and Decoding Method and System." Patent ZL202210593207.9, 2024.
 
 Student Supervision
 ======

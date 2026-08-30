@@ -5,7 +5,7 @@ permalink: /publication/2025-03-05-LogDLR-Unsupervised-Cross-System-Log-Anomaly-
 excerpt: 'In this paper, we propose LogDLR, a novel unsupervised cross-system log anomaly detection method. It uses universal sentence embeddings and a Transformer-based autoencoder to extract domain-invariant latent representations, adapts to heterogeneous log formats, captures semantic dependencies, and achieves efficient and accurate anomaly detection across different systems.'
 date: 2025-03-05
 venue: 'IEEE Transactions on Dependable and Secure Computing '
-paperurl: '[https://ieeexplore.ieee.org/document/9865986](https://ieeexplore.ieee.org/document/10910216)'
+paperurl: 'https://doi.org/10.1109/TDSC.2025.3548050'
 citation: 'J. Zhou et al., "LogDLR: Unsupervised Cross-System Log Anomaly Detection Through Domain-Invariant Latent Representation," in IEEE Transactions on Dependable and Secure Computing, vol. 22, no. 4, pp. 4456-4471, July-Aug. 2025, doi: 10.1109/TDSC.2025.3548050.
 keywords: {Semantics;Anomaly detection;Feature extraction;Transformers;Data models;Training;Autoencoders;Syntactics;Vectors;Long short term memory;Anomaly detection;log analysis;adversarial training},'
 ---
@@ -17,7 +17,7 @@ Log anomaly detection aims to discover abnormal events from massive log data to 
 
 Anomaly detection,log analysis,adversarial training
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10910212)
+[Publisher page](https://doi.org/10.1109/TDSC.2025.3548050)
 
 Recommended citation: J. Zhou et al., "LogDLR: Unsupervised Cross-System Log Anomaly Detection Through Domain-Invariant Latent Representation," in IEEE Transactions on Dependable and Secure Computing, vol. 22, no. 4, pp. 4456-4471, July-Aug. 2025, doi: 10.1109/TDSC.2025.3548050.
 keywords: {Semantics;Anomaly detection;Feature extraction;Transformers;Data models;Training;Autoencoders;Syntactics;Vectors;Long short term memory;Anomaly detection;log analysis;adversarial training},
