@@ -1,12 +1,6 @@
 <!-- start custom analytics snippet -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+<script charset="UTF-8" id="LA_COLLECT" src="https://sdk.51.la/js-sdk-pro.min.js"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ site.analytics.google.tracking_id }}', {
-    'allow_google_signals': false,
-    'allow_ad_personalization_signals': false
-  });
+  LA.init({id:"{{ site.analytics.la.id }}", ck:"{{ site.analytics.la.ck }}"});
 </script>
 <!-- end custom analytics snippet -->
