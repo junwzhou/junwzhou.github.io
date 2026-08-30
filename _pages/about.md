@@ -21,7 +21,9 @@ redirect_from:
 
 ## About
 
-I am a Professor and Doctoral Supervisor at the [School of Artificial Intelligence](https://csai.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), where I currently serve as Deputy Dean. My research focuses on AI for system and software security, coding, compression, and vision.
+I am a Professor and Doctoral Supervisor at the [School of Artificial Intelligence](https://csai.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), where I currently serve as Deputy Dean. I received my Ph.D. in Electronic Engineering from City University of Hong Kong, my M.Eng. in Computer Science from Shenzhen University, and my B.Eng. in Software Engineering from Hunan University.
+
+Before taking up my current position, I conducted postdoctoral research at Pennsylvania State University and worked as an Assistant Researcher at Politecnico di Torino. From 2020 to 2023, I served as Dean and Professor of the School of Mechanical and Electronic Engineering at Xinjiang Vocational University through an educational assistance program. My research focuses on AI for system and software security, coding, compression, and vision, including intelligent log analysis, industrial control security, data security, video compression, and visual intelligence.
 
 ## Research Areas
 

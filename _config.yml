@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Junwei Zhou | 周俊伟"
 title_separator          : "-"
 name                     : &name "Junwei Zhou (周俊伟)" # "Your Name"
-description              : &description "Junwei Zhou's research homepage: system and software security, coding and compression, computer vision, intelligent log analysis, industrial control system security, and data security."
+description              : &description "Junwei Zhou's research homepage: AI for system and software security, coding, compression, and vision."
 url                      : "https://junwzhou.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junwzhou/junwzhou.github.io" # "academicpages/academicpages.github.io"
@@ -70,7 +70,7 @@ social:
   name                   : "Junwei Zhou"
   links:
     - "https://github.com/junwzhou"
-    - "https://orcid.org/0000-0001-9413-0444"
+    - "https://orcid.org/0000-0002-6094-1203"
     - "https://scholar.google.com.hk/citations?user=ERgncpoAAAAJ&hl=en"
 
 
@@ -106,7 +106,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9413-0444" # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6094-1203" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

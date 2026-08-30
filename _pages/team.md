@@ -5,6 +5,6 @@ permalink: /team/
 author_profile: true
 ---
 
-The names below are retained from the previously published team list. Photos, personal email addresses, placements, and biographies are published only with the member's consent. [中文团队页](/zh/team/)
+Team members' names are shown in Hanyu Pinyin. Photos, personal email addresses, placements, and biographies are published only with the member's consent. [中文团队页](/zh/team/)
 
-{% include team-list.md %}
+{% include team-list-en.md %}
