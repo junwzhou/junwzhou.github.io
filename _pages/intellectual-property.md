@@ -5,7 +5,7 @@ permalink: /intellectual-property/
 author_profile: true
 ---
 
-This page lists 8 granted invention patents and 14 software copyright records from a university system export dated August 30, 2026. Certificate scans and private application materials are not published. [中文版](/zh/intellectual-property/)
+[中文版](/zh/intellectual-property/)
 
 ## Granted Invention Patents
 

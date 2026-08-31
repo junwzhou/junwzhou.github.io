@@ -65,4 +65,6 @@ Before taking up my current position, I conducted postdoctoral research at Penns
 
 ## Join the Team
 
+The team's graduates have achieved a 100% employment rate. Their destinations include ByteDance, Huawei, Alibaba, Tencent, the People's Bank of China, research institutes, and further study at Project 985 universities.
+
 Applicants with backgrounds in computer science, artificial intelligence, mathematics, or related fields who are interested in artificial intelligence, computer vision, and system and software security are welcome to apply for master's, doctoral, and postdoctoral positions. For academic enquiries, please contact [junweizhou@whut.edu.cn](mailto:junweizhou@whut.edu.cn).

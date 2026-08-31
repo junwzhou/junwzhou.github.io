@@ -7,8 +7,6 @@ author_profile: true
 
 [中文列表](/zh/publications/)
 
-Publication metadata was verified on August 30, 2026. DOI links lead to the official publication record; “Full text” is shown only when a lawful public copy is available.
-
 {% if author.googlescholar %}
 You can also find the latest citation information on <a href="{{ author.googlescholar }}">Google Scholar</a>.
 {% endif %}

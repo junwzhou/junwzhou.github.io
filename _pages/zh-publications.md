@@ -9,8 +9,6 @@ author_profile: true
   <a href="/zh/">首页</a><a href="/zh/publications/">论文</a><a href="/zh/projects/">项目</a><a href="/zh/intellectual-property/">专利与软著</a><a href="/zh/team/">团队</a><a href="/zh/news/">新闻</a><a href="/publications/">EN</a>
 </nav>
 
-论文元数据核验日期为2026年8月30日。DOI链接指向正式出版记录；仅在存在合法公开版本时显示“原文”链接。
-
 {% assign current_year = "" %}
 <div class="publication-list">
 {% for pub in site.data.publications %}

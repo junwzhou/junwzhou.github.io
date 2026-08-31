@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-Team activities and research updates. Dates are shown only after they have been confirmed. [中文新闻](/zh/news/)
+[中文新闻](/zh/news/)
 
 {% assign news_items = site.news | sort: "order" %}
 <div class="news-grid">
