@@ -9,6 +9,6 @@ author_profile: true
   <a href="/zh/">首页</a><a href="/zh/publications/">论文</a><a href="/zh/projects/">项目</a><a href="/zh/intellectual-property/">专利与软著</a><a href="/zh/team/">团队</a><a href="/zh/news/">新闻</a><a href="/team/">EN</a>
 </nav>
 
-本页在原公开团队名单基础上，补充本人提供的脱敏指导学生名录。学号、培养状态、毕业日期、联系方式等个人信息不予公开。
+为保护学生隐私，中英文页面均使用拼音姓名，不公开中文姓名、学号、培养状态、毕业日期和联系方式。“—”表示就业或实习单位信息尚未提供或确认。
 
 {% include team-list.md %}

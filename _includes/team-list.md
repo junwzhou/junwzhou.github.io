@@ -1,101 +1,125 @@
 ### 2026级
 
-- 汪雨婷
-- 郭一一
-- 余林波
-- 张泽阳
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Wang Yuting | — |
+| Guo Yiyi | — |
+| Yu Linbo | — |
+| Zhang Zeyang | — |
 
 ### 2025级
 
-- 林壮豪
-- 滕堂智
-- 孙伯聪
-- 张铭洋
-- 庞凯琳
-- 陶倩
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Lin Zhuanghao | — |
+| Teng Tangzhi | — |
+| Sun Bocong | — |
+| Zhang Mingyang | — |
+| Pang Kailin | — |
+| Tao Qian | — |
 
 ### 2024级
 
-- 董芳春
-- 王林浩
-- 李涛
-- 陈靖宇
-- 侯彦彬
-- 沈嘉琪
-- 朱颖
-- 许国骏
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Dong Fangchun | — |
+| Wang Linhao | — |
+| Li Tao | — |
+| Chen Jingyu | — |
+| Hou Yanbin | — |
+| Shen Jiaqi | — |
+| Zhu Ying | — |
+| Xu Guojun | — |
 
 ### 2023级
 
-- 肖皓匀
-- 马锐
-- 赵雨煊
-- 高钰杨
-- 张本怡
-- 薛润尘
-- 黄耀诚
-- 单雨佳
-- 秦文涛
-- 黄燕清
-- WASUNDARA M. M. I. W.
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Xiao Haoyun | — |
+| Ma Rui | — |
+| Zhao Yuxuan | — |
+| Gao Yuyang | — |
+| Zhang Benyi | — |
+| Xue Runchen | — |
+| Huang Yaocheng | — |
+| Shan Yujia | — |
+| Qin Wentao | — |
+| Huang Yanqing | — |
+| Wasundara M. M. I. W. | — |
 
 ### 2022级
 
-- 应劭文
-- 张炜健
-- 涂清鹏
-- 黄桥
-- 宋凯
-- 王春龙
-- 叶壮
-- CONTEH ALIMAMY ALPHA
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Ying Shaowen | — |
+| Zhang Weijian | — |
+| Tu Qingpeng | — |
+| Huang Qiao | — |
+| Song Kai | — |
+| Wang Chunlong | — |
+| Ye Zhuang | — |
+| Conteh Alimamy Alpha | — |
 
 ### 2021级
 
-- 李亚飞
-- 宋雨洁
-- 吴晟平
-- 喻向天
-- 李德鑫
-- BA M.R.S.A
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Li Yafei | — |
+| Song Yujie | — |
+| Wu Shengping | — |
+| Yu Xiangtian | — |
+| Li Dexin | — |
+| Ba M.R.S.A | — |
 
 ### 2020级
 
-- 龙俊威
-- 陈铭
-- 易湘波
-- 雷伯天
-- 聂立
-- 李家豪
-- MAMMADLI RAUF
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Long Junwei | — |
+| Chen Ming | — |
+| Yi Xiangbo | — |
+| Lei Botian | — |
+| Nie Li | — |
+| Li Jiahao | — |
+| Mammadli Rauf | — |
 
 ### 2019级
 
-- 钱怡佳
-- 梁宇成
-- 李滴萌
-- 吕婷
-- 稂慧乐
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Qian Yijia | — |
+| Liang Yucheng | — |
+| Li Dimeng | — |
+| Lü Ting | — |
+| Lang Huile | — |
 
 ### 2018级
 
-- 蔺毓敏
-- 尚德龙
-- 李梦颖
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Lin Yumin | — |
+| Shang Delong | — |
+| Li Mengying | — |
 
 ### 2017级
 
-- 傅银城
-- 李俊炯
-- 舒科
-- 陈瑞琦
-- 王乐姗
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Fu Yincheng | — |
+| Li Junjiong | — |
+| Shu Ke | — |
+| Chen Ruiqi | — |
+| Wang Leshan | — |
 
 ### 2016级
 
-- 齐明伟
-- 普拉斯
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Qi Mingwei | — |
+| Pulasi | — |
 
 ### 2015级
 
-- 潘艺云
+| 姓名（拼音） | 就业/实习单位 |
+|---|---|
+| Pan Yiyun | — |
