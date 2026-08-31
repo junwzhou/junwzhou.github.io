@@ -121,7 +121,9 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (weixin, #07c160),
+  (qq, #12b7f5);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {

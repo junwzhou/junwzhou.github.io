@@ -1,4 +1,5 @@
 {% include base_path %}
+{% assign share_url = base_path | append: page.url %}
 
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
@@ -10,4 +11,41 @@
   <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <button type="button" class="btn btn--weixin js-weixin-share" data-share-url="{{ share_url }}" data-share-title="{{ page.title | escape }}" title="分享到微信"><i class="fab fa-weixin" aria-hidden="true"></i><span> 微信</span></button>
+
+  <a href="https://connect.qq.com/widget/shareqq/index.html?url={{ share_url | url_encode }}&title={{ page.title | url_encode }}" class="btn btn--qq" target="_blank" rel="noopener" title="分享到QQ"><i class="fab fa-qq" aria-hidden="true"></i><span> QQ</span></a>
 </section>
+
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.js-weixin-share');
+  buttons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      var url = button.getAttribute('data-share-url');
+      var title = button.getAttribute('data-share-title');
+      if (navigator.share) {
+        navigator.share({ title: title, url: url }).catch(function () {});
+        return;
+      }
+      var copied = function () {
+        window.alert('链接已复制，请粘贴到微信分享。\nLink copied. Paste it into WeChat to share.');
+      };
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(url).then(copied);
+      } else {
+        var input = document.createElement('textarea');
+        input.value = url;
+        input.setAttribute('readonly', '');
+        input.style.position = 'fixed';
+        input.style.opacity = '0';
+        document.body.appendChild(input);
+        input.select();
+        document.execCommand('copy');
+        document.body.removeChild(input);
+        copied();
+      }
+    });
+  });
+}());
+</script>
