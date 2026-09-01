@@ -23,28 +23,29 @@
 | 姓名（拼音） | 就业/实习单位 |
 |---|---|
 | Dong Fangchun | — |
-| Wang Linhao | — |
-| Li Tao | — |
-| Chen Jingyu | — |
-| Hou Yanbin | — |
-| Shen Jiaqi | — |
-| Zhu Ying | — |
+| Wang Linhao | 腾讯科技（北京）有限公司 CSIG 云与智慧产业事业群 |
+| Li Tao | 锐捷网络 |
+| Chen Jingyu | 上海非凸智能科技有限公司 |
+| Hou Yanbin | 美的 |
+| Shen Jiaqi | 亚信科技有限公司 |
+| Zhu Ying | 拼多多 |
+| Li Jiaxin | 兴业银行 |
 | Xu Guojun | — |
 
 ### 2023级
 
 | 姓名（拼音） | 就业/实习单位 |
 |---|---|
-| Xiao Haoyun | — |
+| Xiao Haoyun | 中国人民银行莆田市分行 |
 | Ma Rui | — |
-| Zhao Yuxuan | — |
-| Gao Yuyang | — |
-| Zhang Benyi | — |
-| Xue Runchen | — |
-| Huang Yaocheng | — |
+| Zhao Yuxuan | 中南大学 |
+| Gao Yuyang | 华为 |
+| Zhang Benyi | 北京邮电大学 |
+| Xue Runchen | 中创智领工业技术集团股份有限公司 |
+| Huang Yaocheng | 集创北方科技有限公司 |
 | Shan Yujia | — |
-| Qin Wentao | — |
-| Huang Yanqing | — |
+| Qin Wentao | 美团 |
+| Huang Yanqing | - |
 | Wasundara M. M. I. W. | — |
 
 ### 2022级
@@ -54,7 +55,7 @@
 | Ying Shaowen | — |
 | Zhang Weijian | — |
 | Tu Qingpeng | — |
-| Huang Qiao | — |
+| Huang Qiao | 华为 |
 | Song Kai | — |
 | Wang Chunlong | — |
 | Ye Zhuang | — |
