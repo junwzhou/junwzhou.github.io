@@ -42,9 +42,9 @@ Before taking up my current position, I conducted postdoctoral research at Penns
 
 ## Current Research Projects
 
+- Collaborative multi-source root cause analysis for log anomalies in industrial control systems (2027–2030), NSFC General Program, Principal Investigator.
 - Multimodal embodied intelligence through tactile-visual fusion (2025–2027), Principal Investigator.
 - Intelligent fault localization and analysis based on system runtime logs (2026–2027), Principal Investigator.
-- Artificial intelligence and factor-based quantitative trading systems (2026–2028), Principal Investigator.
 
 [View all projects →](/projects/)
 
