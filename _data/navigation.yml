@@ -17,11 +17,10 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
   - title: "Projects"
     url: /projects/
 
-  - title: "Patents & Software"
+  - title: "Results"
     url: /intellectual-property/
 
   - title: "Team"
