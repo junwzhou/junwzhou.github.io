@@ -12,9 +12,9 @@ author_profile: true
 <div class="project-list">
 {% for project in site.data.projects %}
   <article class="project-entry">
-    <p class="project-meta">{{ project.period }} · {{ project.type_zh }}</p>
+    <p class="project-meta">{{ project.period }}{% if project.type_zh %} · {{ project.type_zh }}{% endif %}</p>
     <h2>{{ project.title_zh }}</h2>
-    <p><strong>{{ project.role_zh }}</strong>{% if project.number %} · 项目编号 {{ project.number }}{% endif %}</p>
+    {% if project.role_zh or project.number or project.funding_zh %}<p>{% if project.role_zh %}<strong>{{ project.role_zh }}</strong>{% endif %}{% if project.number %}{% if project.role_zh %} · {% endif %}项目编号 {{ project.number }}{% endif %}{% if project.funding_zh %}{% if project.role_zh or project.number %} · {% endif %}项目经费：{{ project.funding_zh }}{% endif %}</p>{% endif %}
   </article>
 {% endfor %}
 </div>
