@@ -14,7 +14,7 @@ author_profile: true
   <article class="project-entry">
     <p class="project-meta">{{ project.period }}{% if project.type_zh %} · {{ project.type_zh }}{% endif %}</p>
     <h2>{{ project.title_zh }}</h2>
-    {% if project.role_zh or project.number or project.funding_zh %}<p>{% if project.role_zh %}<strong>{{ project.role_zh }}</strong>{% endif %}{% if project.number %}{% if project.role_zh %} · {% endif %}项目编号 {{ project.number }}{% endif %}{% if project.funding_zh %}{% if project.role_zh or project.number %} · {% endif %}项目经费：{{ project.funding_zh }}{% endif %}</p>{% endif %}
+    {% if project.role_zh or project.number %}<p>{% if project.role_zh %}<strong>{{ project.role_zh }}</strong>{% endif %}{% if project.number %}{% if project.role_zh %} · {% endif %}项目编号 {{ project.number }}{% endif %}</p>{% endif %}
   </article>
 {% endfor %}
 </div>
