@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Results"
+title: "Research Achievements"
 permalink: /intellectual-property/
 author_profile: true
 ---
