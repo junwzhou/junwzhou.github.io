@@ -36,7 +36,7 @@
 | Shen Jiaqi | AsiaInfo Technologies Limited |
 | Zhu Ying | Pinduoduo |
 | Li Jiaxin | Industrial Bank Co |
-| [Xu Guojun](https://mommqq.github.io/guojunxu/) | - |
+| [Xu Guojun](https://mommqq.github.io/guojunxu/) | — |
 
 ### Class of 2023
 
