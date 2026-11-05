@@ -1,3 +1,9 @@
+### Faculty
+
+| Name | Homepage |
+|---|---|
+| [Lyu Long](https://long-lyu.github.io/) | Personal website |
+
 ### Class of 2026
 
 | Name | Employment / Internship |
@@ -29,7 +35,7 @@
 | Hou Yanbin | Midea Group Co |
 | Shen Jiaqi | AsiaInfo Technologies Limited |
 | Zhu Ying | Pinduoduo |
-| Xu Guojun | Industrial Bank Co |
+| [Xu Guojun](https://mommqq.github.io/guojunxu/) | Industrial Bank Co |
 
 ### Class of 2023
 

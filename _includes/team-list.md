@@ -1,3 +1,9 @@
+### 导师
+
+| 姓名 | 个人主页 |
+|---|---|
+| [Lyu Long](https://long-lyu.github.io/) | 个人主页 |
+
 ### 2026级
 
 | 姓名（拼音） | 就业/实习单位 |
@@ -30,7 +36,7 @@
 | Shen Jiaqi | 亚信科技有限公司 |
 | Zhu Ying | 拼多多 |
 | Li Jiaxin | 兴业银行 |
-| Xu Guojun | — |
+| [Xu Guojun](https://mommqq.github.io/guojunxu/) | — |
 
 ### 2023级
 
