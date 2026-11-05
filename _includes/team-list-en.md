@@ -35,7 +35,8 @@
 | Hou Yanbin | Midea Group Co |
 | Shen Jiaqi | AsiaInfo Technologies Limited |
 | Zhu Ying | Pinduoduo |
-| [Xu Guojun](https://mommqq.github.io/guojunxu/) | Industrial Bank Co |
+| Li Jiaxin | Industrial Bank Co |
+| [Xu Guojun](https://mommqq.github.io/guojunxu/) | - |
 
 ### Class of 2023
 
