@@ -8,21 +8,31 @@
 
 | Name | Employment / Internship |
 |---|---|
-| Wang Yuting | — |
-| Guo Yiyi | — |
+| [Wang Yuting](https://april10086.github.io/yutingwang/) | — |
+| [Guo Yiyi](https://eleven11233.github.io/gyy.github.io/) | — |
 | Yu Linbo | — |
 | Zhang Zeyang | — |
+| [Hao Yusen](https://hys0720.github.io/) | — |
+| [Liu Wenda](https://wendaliu1213.github.io/) | — |
+| [Li Yiran](https://xiaoranxiaoran.github.io/) | — |
+| [Lin Maojiang](https://13358286610.github.io/) | — |
+| [Xie Yaning](https://xieyaningg.github.io/) | — |
+| [Zhou Xuan](https://xuan74587-cmd.github.io/) | — |
+| [Nirosha](https://github.com/NiroshaWeerarathna) | — |
+| Saba Farahani | — |
+| Wihangi | — |
+| Salem | — |
 
 ### Class of 2025
 
 | Name | Employment / Internship |
 |---|---|
-| Lin Zhuanghao | — |
-| Teng Tangzhi | — |
-| Sun Bocong | — |
-| Zhang Mingyang | — |
-| Pang Kailin | — |
-| Tao Qian | — |
+| [Lin Zhuanghao](https://hua-fafa123.github.io/Zhuanghao-Lin) | — |
+| [Teng Tangzhi](https://tangzhiteng.github.io/) | — |
+| [Sun Bocong](https://supersbc.github.io/) | — |
+| [Zhang Mingyang](https://zmy20030528.github.io/) | — |
+| [Pang Kailin](https://carlin-1.github.io/) | — |
+| [Tao Qian](https://zeronetao.github.io/) | — |
 
 ### Class of 2024
 
@@ -30,7 +40,7 @@
 |---|---|
 | Dong Fangchun | — |
 | Wang Linhao | Tencent Technology (Beijing) Co., Ltd., Cloud and Smart Industries Group (CSIG) |
-| Li Tao | Ruijie Networks Co |
+| [Li Tao](https://litaowsddw.github.io/) | Ruijie Networks Co |
 | Chen Jingyu |Shanghai Nonconvex Intelligent Technology Co |
 | Hou Yanbin | Midea Group Co |
 | Shen Jiaqi | AsiaInfo Technologies Limited |

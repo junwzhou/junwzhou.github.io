@@ -8,21 +8,31 @@
 
 | 姓名（拼音） | 就业/实习单位 |
 |---|---|
-| Wang Yuting | — |
-| Guo Yiyi | — |
+| [Wang Yuting](https://april10086.github.io/yutingwang/) | — |
+| [Guo Yiyi](https://eleven11233.github.io/gyy.github.io/) | — |
 | Yu Linbo | — |
 | Zhang Zeyang | — |
+| [Hao Yusen](https://hys0720.github.io/) | — |
+| [Liu Wenda](https://wendaliu1213.github.io/) | — |
+| [Li Yiran](https://xiaoranxiaoran.github.io/) | — |
+| [Lin Maojiang](https://13358286610.github.io/) | — |
+| [Xie Yaning](https://xieyaningg.github.io/) | — |
+| [Zhou Xuan](https://xuan74587-cmd.github.io/) | — |
+| [Nirosha](https://github.com/NiroshaWeerarathna) | — |
+| Saba Farahani | — |
+| Wihangi | — |
+| Salem | — |
 
 ### 2025级
 
 | 姓名（拼音） | 就业/实习单位 |
 |---|---|
-| Lin Zhuanghao | — |
-| Teng Tangzhi | — |
-| Sun Bocong | — |
-| Zhang Mingyang | — |
-| Pang Kailin | — |
-| Tao Qian | — |
+| [Lin Zhuanghao](https://hua-fafa123.github.io/Zhuanghao-Lin) | — |
+| [Teng Tangzhi](https://tangzhiteng.github.io/) | — |
+| [Sun Bocong](https://supersbc.github.io/) | — |
+| [Zhang Mingyang](https://zmy20030528.github.io/) | — |
+| [Pang Kailin](https://carlin-1.github.io/) | — |
+| [Tao Qian](https://zeronetao.github.io/) | — |
 
 ### 2024级
 
@@ -30,7 +40,7 @@
 |---|---|
 | Dong Fangchun | — |
 | Wang Linhao | 腾讯科技（北京）有限公司 CSIG 云与智慧产业事业群 |
-| Li Tao | 锐捷网络 |
+| [Li Tao](https://litaowsddw.github.io/) | 锐捷网络 |
 | Chen Jingyu | 上海非凸智能科技有限公司 |
 | Hou Yanbin | 美的 |
 | Shen Jiaqi | 亚信科技有限公司 |
