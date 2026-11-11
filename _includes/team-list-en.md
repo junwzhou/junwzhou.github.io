@@ -10,7 +10,6 @@
 |---|---|
 | [Wang Yuting](https://april10086.github.io/yutingwang/) | — |
 | [Guo Yiyi](https://eleven11233.github.io/gyy.github.io/) | — |
-| Yu Linbo | — |
 | Zhang Zeyang | — |
 | [Hao Yusen](https://hys0720.github.io/) | — |
 | [Liu Wenda](https://wendaliu1213.github.io/) | — |
@@ -19,8 +18,8 @@
 | [Xie Yaning](https://xieyaningg.github.io/) | — |
 | [Zhou Xuan](https://xuan74587-cmd.github.io/) | — |
 | [Nirosha](https://github.com/NiroshaWeerarathna) | — |
-| Saba Farahani | — |
-| Wihangi | — |
+| [Saba Farahani](https://github.com/yuri99coder/sabafarahani.github.io) | — |
+| [Wihangi](https://wihangisakunika.github.io/WihangiSakunika/) | — |
 | Salem | — |
 
 ### Class of 2025
@@ -33,6 +32,8 @@
 | [Zhang Mingyang](https://zmy20030528.github.io/) | — |
 | [Pang Kailin](https://carlin-1.github.io/) | — |
 | [Tao Qian](https://zeronetao.github.io/) | — |
+| ebou | — |
+| Mzgin | — |
 
 ### Class of 2024
 
