@@ -20,7 +20,7 @@
 | [Nirosha](https://github.com/NiroshaWeerarathna) | — |
 | [Saba Farahani](https://github.com/yuri99coder/sabafarahani.github.io) | — |
 | [Wihangi](https://wihangisakunika.github.io/WihangiSakunika/) | — |
-| Salem | — |
+| [Salem](https://alzabidi-salem.github.io/) | — |
 
 ### Class of 2025
 
@@ -32,7 +32,7 @@
 | [Zhang Mingyang](https://zmy20030528.github.io/) | — |
 | [Pang Kailin](https://carlin-1.github.io/) | — |
 | [Tao Qian](https://zeronetao.github.io/) | — |
-| ebou | — |
+| [ebou](https://ebousowe50.github.io/ebousowe/) | — |
 | Mzgin | — |
 
 ### Class of 2024
