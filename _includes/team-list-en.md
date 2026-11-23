@@ -18,7 +18,7 @@
 | [Xie Yaning](https://xieyaningg.github.io/) | — |
 | [Zhou Xuan](https://xuan74587-cmd.github.io/) | — |
 | [Nirosha](https://github.com/NiroshaWeerarathna) | — |
-| [Saba Farahani](https://github.com/yuri99coder/sabafarahani.github.io) | — |
+| [Saba Farahani](https://yuri99coder.github.io/sabafarahani.github.io/) | — |
 | [Wihangi](https://wihangisakunika.github.io/WihangiSakunika/) | — |
 | [Salem](https://alzabidi-salem.github.io/) | — |
 
@@ -33,7 +33,7 @@
 | [Pang Kailin](https://carlin-1.github.io/) | — |
 | [Tao Qian](https://zeronetao.github.io/) | — |
 | [ebou](https://ebousowe50.github.io/ebousowe/) | — |
-| Mzgin | — |
+| [Mzgin](https://mzginmei.github.io/mzgin/) | — |
 
 ### Class of 2024
 
@@ -44,9 +44,9 @@
 | [Li Tao](https://litaowsddw.github.io/) | Ruijie Networks Co |
 | Chen Jingyu |Shanghai Nonconvex Intelligent Technology Co |
 | Hou Yanbin | Midea Group Co |
-| Shen Jiaqi | AsiaInfo Technologies Limited |
+| [Shen Jiaqi](https://jiaqshen.github.io/) | AsiaInfo Technologies Limited |
 | Zhu Ying | Pinduoduo |
-| Li Jiaxin | Industrial Bank Co |
+| [Li Jiaxin](https://li000306.github.io/) | Industrial Bank Co |
 | [Xu Guojun](https://mommqq.github.io/guojunxu/) | — |
 
 ### Class of 2023

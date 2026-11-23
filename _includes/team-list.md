@@ -18,7 +18,7 @@
 | [Xie Yaning](https://xieyaningg.github.io/) | — |
 | [Zhou Xuan](https://xuan74587-cmd.github.io/) | — |
 | [Nirosha](https://github.com/NiroshaWeerarathna) | — |
-| [Saba Farahani](https://github.com/yuri99coder/sabafarahani.github.io) | — |
+| [Saba Farahani](https://yuri99coder.github.io/sabafarahani.github.io/) | — |
 | [Wihangi](https://wihangisakunika.github.io/WihangiSakunika/) | — |
 | [Salem](https://alzabidi-salem.github.io/) | — |
 
@@ -33,7 +33,7 @@
 | [Pang Kailin](https://carlin-1.github.io/) | — |
 | [Tao Qian](https://zeronetao.github.io/) | — |
 | [ebou](https://ebousowe50.github.io/ebousowe/) | — |
-| Mzgin | — |
+| [Mzgin](https://mzginmei.github.io/mzgin/) | — |
 
 ### 2024级
 
@@ -44,9 +44,9 @@
 | [Li Tao](https://litaowsddw.github.io/) | 锐捷网络 |
 | Chen Jingyu | 上海非凸智能科技有限公司 |
 | Hou Yanbin | 美的 |
-| Shen Jiaqi | 亚信科技有限公司 |
+| [Shen Jiaqi](https://jiaqshen.github.io/) | 亚信科技有限公司 |
 | Zhu Ying | 拼多多 |
-| Li Jiaxin | 兴业银行 |
+| [Li Jiaxin](https://li000306.github.io/) | 兴业银行 |
 | [Xu Guojun](https://mommqq.github.io/guojunxu/) | — |
 
 ### 2023级
