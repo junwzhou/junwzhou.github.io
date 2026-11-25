@@ -3,6 +3,7 @@
 | Name | Homepage |
 |---|---|
 | [Lyu Long](https://long-lyu.github.io/) | Personal website |
+| [Tan Cheng](https://tancheng-whut.github.io/) | Personal website |
 
 ### Class of 2026
 

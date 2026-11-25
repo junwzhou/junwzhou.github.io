@@ -3,6 +3,7 @@
 | 姓名 | 个人主页 |
 |---|---|
 | [Lyu Long](https://long-lyu.github.io/) | 个人主页 |
+| [Tan Cheng](https://tancheng-whut.github.io/) | 个人主页 |
 
 ### 2026级
 
